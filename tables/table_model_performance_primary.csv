@@ -1,0 +1,2 @@
+model,n_train,n_validation,events_validation,auroc,auprc,brier
+logistic_interpretable_clinical_only,220,74,29,0.6574712643678161,0.5606680177322385,0.2308308948017032

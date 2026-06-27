@@ -1,0 +1,28 @@
+{
+  "predictors": [
+    "sex",
+    "age_at_diagnosis_years",
+    "pathologic_stage",
+    "pathologic_t",
+    "pathologic_n",
+    "pathologic_m",
+    "histologic_grade",
+    "primary_site",
+    "smoking_history",
+    "expr_FAT1",
+    "expr_CCND1",
+    "expr_EPCAM",
+    "expr_CD274",
+    "expr_PIK3CA",
+    "expr_TP53",
+    "expr_EGFR",
+    "expr_CDKN2A",
+    "expr_NOTCH1",
+    "expr_SOX2",
+    "expr_KRT5",
+    "expr_KRT14",
+    "expr_PDCD1LG2"
+  ],
+  "outcome": "event_death",
+  "scaling_factor": 0.2770261553106077
+}

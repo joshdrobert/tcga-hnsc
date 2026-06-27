@@ -1,0 +1,3 @@
+model,n_train,n_validation,events_validation,auroc,auprc,brier,predictor_count
+clinical_only,220,74,29,0.6574712643678161,0.5606680177322385,0.23083089480170327,9
+clinical_expression_panel,220,74,29,0.6268199233716475,0.5475275362028911,0.23772727039162983,22

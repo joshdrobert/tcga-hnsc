@@ -1,0 +1,4242 @@
+{
+  "data": {
+    "hits": [
+      {
+        "id": "b8ac8500-abcd-40c4-9c24-7af557fd260a",
+        "case_id": "b8ac8500-abcd-40c4-9c24-7af557fd260a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-4227"
+      },
+      {
+        "id": "467d5c94-1e67-4454-9e9c-9dffaa643032",
+        "case_id": "467d5c94-1e67-4454-9e9c-9dffaa643032",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6478"
+      },
+      {
+        "id": "cac30b32-03ef-4ecb-88d8-d5577ab6b2a6",
+        "case_id": "cac30b32-03ef-4ecb-88d8-d5577ab6b2a6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-4228"
+      },
+      {
+        "id": "6fa62461-e721-415a-8b0f-363b84292b82",
+        "case_id": "6fa62461-e721-415a-8b0f-363b84292b82",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-4075"
+      },
+      {
+        "id": "47d1fcaf-3c01-43ba-9a21-0870b4ea2976",
+        "case_id": "47d1fcaf-3c01-43ba-9a21-0870b4ea2976",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CX-7082"
+      },
+      {
+        "id": "171890ae-0391-4d8c-9bd2-090d866a2c5b",
+        "case_id": "171890ae-0391-4d8c-9bd2-090d866a2c5b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6997"
+      },
+      {
+        "id": "e95e9e7d-a1ed-46eb-9cf8-1d355bf0577f",
+        "case_id": "e95e9e7d-a1ed-46eb-9cf8-1d355bf0577f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-5629"
+      },
+      {
+        "id": "58574e35-8a30-4207-b127-59fff7c87a43",
+        "case_id": "58574e35-8a30-4207-b127-59fff7c87a43",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-4224"
+      },
+      {
+        "id": "134223bd-5c03-4854-a034-ebd2c527833e",
+        "case_id": "134223bd-5c03-4854-a034-ebd2c527833e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4C7"
+      },
+      {
+        "id": "4bfbce2b-9d0b-4e8a-950f-fd8e0ba3e05a",
+        "case_id": "4bfbce2b-9d0b-4e8a-950f-fd8e0ba3e05a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-4077"
+      },
+      {
+        "id": "bd62a587-6fe1-47ce-918d-055f2b38bb0e",
+        "case_id": "bd62a587-6fe1-47ce-918d-055f2b38bb0e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-6871"
+      },
+      {
+        "id": "2fc48edb-a428-49c3-9599-d00eb2b448ac",
+        "case_id": "2fc48edb-a428-49c3-9599-d00eb2b448ac",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6024"
+      },
+      {
+        "id": "2c6d6c93-fb6d-47f7-a868-5e9a82c75d4c",
+        "case_id": "2c6d6c93-fb6d-47f7-a868-5e9a82c75d4c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7406"
+      },
+      {
+        "id": "8a3fdb52-63ef-48d7-95ff-167829825eb9",
+        "case_id": "8a3fdb52-63ef-48d7-95ff-167829825eb9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-7588"
+      },
+      {
+        "id": "e0f4d67d-5ca3-4c21-9f52-04f660827d08",
+        "case_id": "e0f4d67d-5ca3-4c21-9f52-04f660827d08",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-7067"
+      },
+      {
+        "id": "839b660c-98fe-4468-a2b3-408594350250",
+        "case_id": "839b660c-98fe-4468-a2b3-408594350250",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6221"
+      },
+      {
+        "id": "d8a6383e-3320-4d2c-9017-31e8e1e8f120",
+        "case_id": "d8a6383e-3320-4d2c-9017-31e8e1e8f120",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-7631"
+      },
+      {
+        "id": "96415324-6859-41eb-8d07-be4e6f7d9781",
+        "case_id": "96415324-6859-41eb-8d07-be4e6f7d9781",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7416"
+      },
+      {
+        "id": "fa2d4258-3ee4-4d53-8ef2-9700b5cf38d6",
+        "case_id": "fa2d4258-3ee4-4d53-8ef2-9700b5cf38d6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7568"
+      },
+      {
+        "id": "05f01280-bf77-4682-a7a8-20dd0eac77bd",
+        "case_id": "05f01280-bf77-4682-a7a8-20dd0eac77bd",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-4223"
+      },
+      {
+        "id": "90f44998-3c05-44b2-9501-bbd0f43c5147",
+        "case_id": "90f44998-3c05-44b2-9501-bbd0f43c5147",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6225"
+      },
+      {
+        "id": "a4cb2c52-15e2-45c8-aff9-23339217d167",
+        "case_id": "a4cb2c52-15e2-45c8-aff9-23339217d167",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7437"
+      },
+      {
+        "id": "4648225e-5b68-488a-969a-e8d812190c6f",
+        "case_id": "4648225e-5b68-488a-969a-e8d812190c6f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-7589"
+      },
+      {
+        "id": "6715b957-0d48-439c-8cd7-bd9b204d39b0",
+        "case_id": "6715b957-0d48-439c-8cd7-bd9b204d39b0",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7440"
+      },
+      {
+        "id": "0956bc67-dd55-4c54-a56a-f22f2856662a",
+        "case_id": "0956bc67-dd55-4c54-a56a-f22f2856662a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6472"
+      },
+      {
+        "id": "3ce5b304-6068-43ba-9e70-e4357d6d7a2a",
+        "case_id": "3ce5b304-6068-43ba-9e70-e4357d6d7a2a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CX-7219"
+      },
+      {
+        "id": "5c48e21f-1fe9-4007-9b0c-7ca766586fff",
+        "case_id": "5c48e21f-1fe9-4007-9b0c-7ca766586fff",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-7229"
+      },
+      {
+        "id": "7e0575ce-670b-4035-8a90-4d35279707b2",
+        "case_id": "7e0575ce-670b-4035-8a90-4d35279707b2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-5557"
+      },
+      {
+        "id": "547de7d8-c2f1-41d7-a0b4-cc6f39712301",
+        "case_id": "547de7d8-c2f1-41d7-a0b4-cc6f39712301",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6992"
+      },
+      {
+        "id": "b843df7e-db06-4d29-b00d-6a93effd9191",
+        "case_id": "b843df7e-db06-4d29-b00d-6a93effd9191",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-8635"
+      },
+      {
+        "id": "730c3b27-24d5-4a80-b659-db54cd2bc4fa",
+        "case_id": "730c3b27-24d5-4a80-b659-db54cd2bc4fa",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-6870"
+      },
+      {
+        "id": "8ebe8c25-5ef9-42d4-9414-8313227b673f",
+        "case_id": "8ebe8c25-5ef9-42d4-9414-8313227b673f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-7068"
+      },
+      {
+        "id": "06f0cf45-3840-44b2-bfc5-18eb980b8f68",
+        "case_id": "06f0cf45-3840-44b2-bfc5-18eb980b8f68",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7410"
+      },
+      {
+        "id": "17b17d91-c3df-4b89-9c10-4db069aff656",
+        "case_id": "17b17d91-c3df-4b89-9c10-4db069aff656",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-5559"
+      },
+      {
+        "id": "22933e67-5c61-4c13-9772-5adb78785b34",
+        "case_id": "22933e67-5c61-4c13-9772-5adb78785b34",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-8634"
+      },
+      {
+        "id": "deefdd62-4d35-40c9-ad4c-0b593f35cff7",
+        "case_id": "deefdd62-4d35-40c9-ad4c-0b593f35cff7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5323"
+      },
+      {
+        "id": "67eae8b3-3bd2-4e87-af78-ffe8221f318d",
+        "case_id": "67eae8b3-3bd2-4e87-af78-ffe8221f318d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-7593"
+      },
+      {
+        "id": "c1f50a22-38df-41cc-a1f4-f7985504a7ac",
+        "case_id": "c1f50a22-38df-41cc-a1f4-f7985504a7ac",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-4225"
+      },
+      {
+        "id": "9eb1997f-14f5-4230-ae4f-1ef1943e1723",
+        "case_id": "9eb1997f-14f5-4230-ae4f-1ef1943e1723",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6021"
+      },
+      {
+        "id": "69efde94-a9f9-49ff-9c82-028c35940eda",
+        "case_id": "69efde94-a9f9-49ff-9c82-028c35940eda",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6023"
+      },
+      {
+        "id": "12d05e8f-8d13-47c1-b713-2250f6abcef9",
+        "case_id": "12d05e8f-8d13-47c1-b713-2250f6abcef9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4727"
+      },
+      {
+        "id": "339f80f9-a542-4aaa-8bb8-3784493dd5ab",
+        "case_id": "339f80f9-a542-4aaa-8bb8-3784493dd5ab",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6022"
+      },
+      {
+        "id": "490950f3-2d1a-4174-a30d-b8f5654ff316",
+        "case_id": "490950f3-2d1a-4174-a30d-b8f5654ff316",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7089"
+      },
+      {
+        "id": "b86e27d4-a524-4855-89c6-d46a4079a9a0",
+        "case_id": "b86e27d4-a524-4855-89c6-d46a4079a9a0",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A620"
+      },
+      {
+        "id": "f68237e7-7fc0-4b6b-8095-b49515ddd169",
+        "case_id": "f68237e7-7fc0-4b6b-8095-b49515ddd169",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-7862"
+      },
+      {
+        "id": "5d5defb3-8572-467d-b383-7358f802b398",
+        "case_id": "5d5defb3-8572-467d-b383-7358f802b398",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A63W"
+      },
+      {
+        "id": "5422a86d-f9ff-4fb6-873e-bf7cc3de50e5",
+        "case_id": "5422a86d-f9ff-4fb6-873e-bf7cc3de50e5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7389"
+      },
+      {
+        "id": "277b02e9-ded5-4980-845d-af53690000ac",
+        "case_id": "277b02e9-ded5-4980-845d-af53690000ac",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4741"
+      },
+      {
+        "id": "534f85f2-b9eb-45be-87d5-c3dffd13d541",
+        "case_id": "534f85f2-b9eb-45be-87d5-c3dffd13d541",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7255"
+      },
+      {
+        "id": "09f6c3ab-b799-404a-b301-22b9caf33e82",
+        "case_id": "09f6c3ab-b799-404a-b301-22b9caf33e82",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-AA3K"
+      },
+      {
+        "id": "dec3c21b-3f59-472f-8573-27b0e830aa92",
+        "case_id": "dec3c21b-3f59-472f-8573-27b0e830aa92",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-A6I0"
+      },
+      {
+        "id": "2915b26b-8c18-48e4-9715-a7e207f0a0e6",
+        "case_id": "2915b26b-8c18-48e4-9715-a7e207f0a0e6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A64Z"
+      },
+      {
+        "id": "4cffea0b-90a7-4c86-a73f-bb8feca3ada7",
+        "case_id": "4cffea0b-90a7-4c86-a73f-bb8feca3ada7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5365"
+      },
+      {
+        "id": "64bb5550-2735-4401-a0db-58ec1020a32d",
+        "case_id": "64bb5550-2735-4401-a0db-58ec1020a32d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5431"
+      },
+      {
+        "id": "815119e3-13c4-4f63-98c7-10a519034a25",
+        "case_id": "815119e3-13c4-4f63-98c7-10a519034a25",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7424"
+      },
+      {
+        "id": "5da2dbde-735b-4f05-b6d7-76de54d6d6ac",
+        "case_id": "5da2dbde-735b-4f05-b6d7-76de54d6d6ac",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4726"
+      },
+      {
+        "id": "220d75ae-c94b-473a-a988-ac40c15fa219",
+        "case_id": "220d75ae-c94b-473a-a988-ac40c15fa219",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6SX"
+      },
+      {
+        "id": "0abe0b8f-fd93-43e8-b78f-48a7c3f96868",
+        "case_id": "0abe0b8f-fd93-43e8-b78f-48a7c3f96868",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JH"
+      },
+      {
+        "id": "ff9db03d-f81c-4079-8b05-f5a8c05b8cfe",
+        "case_id": "ff9db03d-f81c-4079-8b05-f5a8c05b8cfe",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6938"
+      },
+      {
+        "id": "fcb0c5e5-f63c-41b3-ae0e-3d1d6aaa66e4",
+        "case_id": "fcb0c5e5-f63c-41b3-ae0e-3d1d6aaa66e4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A623"
+      },
+      {
+        "id": "65ba24fb-07df-47ce-91c4-677684b64cf4",
+        "case_id": "65ba24fb-07df-47ce-91c4-677684b64cf4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7435"
+      },
+      {
+        "id": "d9e8c707-e61a-4813-8dc0-2472e9ccf12b",
+        "case_id": "d9e8c707-e61a-4813-8dc0-2472e9ccf12b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6223"
+      },
+      {
+        "id": "3101785d-1cc2-4bd9-9fce-02205d0548c6",
+        "case_id": "3101785d-1cc2-4bd9-9fce-02205d0548c6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45X"
+      },
+      {
+        "id": "3cf77e08-ea34-4091-b242-75c7e35ff699",
+        "case_id": "3cf77e08-ea34-4091-b242-75c7e35ff699",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A461"
+      },
+      {
+        "id": "f3ee1127-ed53-43e8-825e-1e5516371054",
+        "case_id": "f3ee1127-ed53-43e8-825e-1e5516371054",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6955"
+      },
+      {
+        "id": "e7d49212-e9cb-4cd7-923a-bdfc82a4a150",
+        "case_id": "e7d49212-e9cb-4cd7-923a-bdfc82a4a150",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6011"
+      },
+      {
+        "id": "93cbda0f-8454-4127-a6da-a19dda345deb",
+        "case_id": "93cbda0f-8454-4127-a6da-a19dda345deb",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-T2-A6WZ"
+      },
+      {
+        "id": "1f744ada-6de1-446d-b62c-76a7fc8b40af",
+        "case_id": "1f744ada-6de1-446d-b62c-76a7fc8b40af",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4737"
+      },
+      {
+        "id": "27c28c89-f4e7-4aec-a806-c0da7756e47f",
+        "case_id": "27c28c89-f4e7-4aec-a806-c0da7756e47f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7368"
+      },
+      {
+        "id": "b39c64bb-122d-44b3-9672-d0dc8468ca93",
+        "case_id": "b39c64bb-122d-44b3-9672-d0dc8468ca93",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6D8"
+      },
+      {
+        "id": "e1fed7aa-2bce-45ae-b0c6-7f50ef97e425",
+        "case_id": "e1fed7aa-2bce-45ae-b0c6-7f50ef97e425",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5356"
+      },
+      {
+        "id": "c2bbb6f9-6f88-4a58-a15a-b887dfad34b4",
+        "case_id": "c2bbb6f9-6f88-4a58-a15a-b887dfad34b4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7427"
+      },
+      {
+        "id": "818ad88a-131e-49df-85d8-55bba0e9ec02",
+        "case_id": "818ad88a-131e-49df-85d8-55bba0e9ec02",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A61L"
+      },
+      {
+        "id": "55f96a9c-e2c8-4243-8a7e-94bc6fab73a6",
+        "case_id": "55f96a9c-e2c8-4243-8a7e-94bc6fab73a6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7261"
+      },
+      {
+        "id": "f248d7b9-6ea7-44ef-8af6-8beda6c6ba4a",
+        "case_id": "f248d7b9-6ea7-44ef-8af6-8beda6c6ba4a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A6EK"
+      },
+      {
+        "id": "9e3e8014-04d4-40d8-b2df-53c770e01df2",
+        "case_id": "9e3e8014-04d4-40d8-b2df-53c770e01df2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45O"
+      },
+      {
+        "id": "ae90972d-5bc2-4b53-b5ff-1b8c31f39342",
+        "case_id": "ae90972d-5bc2-4b53-b5ff-1b8c31f39342",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4CH"
+      },
+      {
+        "id": "2b2bb108-ca85-4b3e-a6a6-5ffaac487c5e",
+        "case_id": "2b2bb108-ca85-4b3e-a6a6-5ffaac487c5e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-7063"
+      },
+      {
+        "id": "42d342d9-f8a5-4940-9b6b-5773d66055f9",
+        "case_id": "42d342d9-f8a5-4940-9b6b-5773d66055f9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A6EO"
+      },
+      {
+        "id": "b3dbf9ad-9602-4e44-beac-1cfa5f8bba5d",
+        "case_id": "b3dbf9ad-9602-4e44-beac-1cfa5f8bba5d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-TN-A7HJ"
+      },
+      {
+        "id": "9c128871-1026-46ab-9ae9-7c6aac468b11",
+        "case_id": "9c128871-1026-46ab-9ae9-7c6aac468b11",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A622"
+      },
+      {
+        "id": "9dd8b7cc-d094-474b-9573-cbff4ab233c8",
+        "case_id": "9dd8b7cc-d094-474b-9573-cbff4ab233c8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-7871"
+      },
+      {
+        "id": "b4d5299d-1f25-4565-b612-0a0a4d6656ec",
+        "case_id": "b4d5299d-1f25-4565-b612-0a0a4d6656ec",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-8298"
+      },
+      {
+        "id": "97c3c5dc-5540-4713-805e-4d98fd8c03ad",
+        "case_id": "97c3c5dc-5540-4713-805e-4d98fd8c03ad",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JA"
+      },
+      {
+        "id": "93a265b7-6c23-4e5f-b797-c117793744bf",
+        "case_id": "93a265b7-6c23-4e5f-b797-c117793744bf",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6936"
+      },
+      {
+        "id": "dedd71b4-8537-4947-839e-90aceddd0893",
+        "case_id": "dedd71b4-8537-4947-839e-90aceddd0893",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4733"
+      },
+      {
+        "id": "ae2051a3-f851-4cb3-af18-029f4574b179",
+        "case_id": "ae2051a3-f851-4cb3-af18-029f4574b179",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7245"
+      },
+      {
+        "id": "ed61706c-7fc1-4c5f-b473-7b0888ac5b73",
+        "case_id": "ed61706c-7fc1-4c5f-b473-7b0888ac5b73",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-6868"
+      },
+      {
+        "id": "45a10908-19e6-421a-8903-1440bfa57c9d",
+        "case_id": "45a10908-19e6-421a-8903-1440bfa57c9d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5355"
+      },
+      {
+        "id": "a71b425b-ccd3-42f0-8163-3721cb1794ef",
+        "case_id": "a71b425b-ccd3-42f0-8163-3721cb1794ef",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A71B"
+      },
+      {
+        "id": "fd7e2226-8086-4a56-867b-6457b87a7fed",
+        "case_id": "fd7e2226-8086-4a56-867b-6457b87a7fed",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MZ-A5BI"
+      },
+      {
+        "id": "7cabcc66-f159-42dc-bd79-953bffd93b8d",
+        "case_id": "7cabcc66-f159-42dc-bd79-953bffd93b8d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45U"
+      },
+      {
+        "id": "a091822c-447a-49a5-8c20-e329df79599c",
+        "case_id": "a091822c-447a-49a5-8c20-e329df79599c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6229"
+      },
+      {
+        "id": "5ed786f3-1d15-4079-bb8f-2f34ef305644",
+        "case_id": "5ed786f3-1d15-4079-bb8f-2f34ef305644",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-8568"
+      },
+      {
+        "id": "650310ff-b75e-40d2-bb8d-80e4efa36b2a",
+        "case_id": "650310ff-b75e-40d2-bb8d-80e4efa36b2a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45Q"
+      },
+      {
+        "id": "600d5316-b795-4ab2-86fc-52835059386f",
+        "case_id": "600d5316-b795-4ab2-86fc-52835059386f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A641"
+      },
+      {
+        "id": "57212fda-fd32-4328-81dc-61f167970f89",
+        "case_id": "57212fda-fd32-4328-81dc-61f167970f89",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7099"
+      },
+      {
+        "id": "601a4146-8093-4f20-9a0a-a97916c9e7f6",
+        "case_id": "601a4146-8093-4f20-9a0a-a97916c9e7f6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-7632"
+      },
+      {
+        "id": "0d0731e2-8d82-4b6d-9258-2896a770a868",
+        "case_id": "0d0731e2-8d82-4b6d-9258-2896a770a868",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5966"
+      },
+      {
+        "id": "60fcc18c-0509-4c7b-aca9-178f47055077",
+        "case_id": "60fcc18c-0509-4c7b-aca9-178f47055077",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A63Y"
+      },
+      {
+        "id": "eb611a76-eecf-452c-bfbe-ab49b362f49c",
+        "case_id": "eb611a76-eecf-452c-bfbe-ab49b362f49c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-7269"
+      },
+      {
+        "id": "61d0709c-d148-413b-a7b5-c0c82ed2f32f",
+        "case_id": "61d0709c-d148-413b-a7b5-c0c82ed2f32f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5367"
+      },
+      {
+        "id": "63b50e1c-7948-464f-bff1-8e0e5daafcc5",
+        "case_id": "63b50e1c-7948-464f-bff1-8e0e5daafcc5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7434"
+      },
+      {
+        "id": "2855bf40-e5e1-4519-b47a-327bfc275279",
+        "case_id": "2855bf40-e5e1-4519-b47a-327bfc275279",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A4II"
+      },
+      {
+        "id": "64260b33-dac0-4442-82c8-04f0c9ea8a01",
+        "case_id": "64260b33-dac0-4442-82c8-04f0c9ea8a01",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6218"
+      },
+      {
+        "id": "67560840-70fb-45fd-8572-648f74811aec",
+        "case_id": "67560840-70fb-45fd-8572-648f74811aec",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A6V7"
+      },
+      {
+        "id": "2fc960bd-01b0-422d-ad33-34520fa3df0e",
+        "case_id": "2fc960bd-01b0-422d-ad33-34520fa3df0e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4729"
+      },
+      {
+        "id": "6826ece7-1834-4367-b05b-fa92a271e179",
+        "case_id": "6826ece7-1834-4367-b05b-fa92a271e179",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4CB"
+      },
+      {
+        "id": "15e43ee8-3080-4895-84fb-a24ad3a68b97",
+        "case_id": "15e43ee8-3080-4895-84fb-a24ad3a68b97",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A50J"
+      },
+      {
+        "id": "6909302d-358a-46cd-8052-eedb09c83c83",
+        "case_id": "6909302d-358a-46cd-8052-eedb09c83c83",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6994"
+      },
+      {
+        "id": "83aa326a-09bf-41cf-945e-6b251f11f731",
+        "case_id": "83aa326a-09bf-41cf-945e-6b251f11f731",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-8569"
+      },
+      {
+        "id": "6ea380ad-d73d-41b2-b448-2d224deec01b",
+        "case_id": "6ea380ad-d73d-41b2-b448-2d224deec01b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MT-A51W"
+      },
+      {
+        "id": "5fe17dde-ef75-49a2-90f8-0647077b6ca5",
+        "case_id": "5fe17dde-ef75-49a2-90f8-0647077b6ca5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A49A"
+      },
+      {
+        "id": "6f8b9c64-16f1-4cd0-9cd6-a3c27d311cf8",
+        "case_id": "6f8b9c64-16f1-4cd0-9cd6-a3c27d311cf8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A465"
+      },
+      {
+        "id": "f87f7cee-e9bd-45cc-a740-3d8ffa9746d3",
+        "case_id": "f87f7cee-e9bd-45cc-a740-3d8ffa9746d3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-7864"
+      },
+      {
+        "id": "731f6967-5a01-40b7-9f88-64d980214bb2",
+        "case_id": "731f6967-5a01-40b7-9f88-64d980214bb2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-T2-A6X2"
+      },
+      {
+        "id": "757c56d0-8a49-464f-866a-ae98816de60b",
+        "case_id": "757c56d0-8a49-464f-866a-ae98816de60b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-4P-AA8J"
+      },
+      {
+        "id": "c7353d6a-82a2-4a0d-8cd4-8c8957943edb",
+        "case_id": "c7353d6a-82a2-4a0d-8cd4-8c8957943edb",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-4078"
+      },
+      {
+        "id": "795677d4-dc60-4ebd-a9df-e88713e5a4aa",
+        "case_id": "795677d4-dc60-4ebd-a9df-e88713e5a4aa",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A50I"
+      },
+      {
+        "id": "a8a391ba-e595-4a91-bd55-02b312e55427",
+        "case_id": "a8a391ba-e595-4a91-bd55-02b312e55427",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-7590"
+      },
+      {
+        "id": "7bfef2dd-5f82-4521-9369-0329e41faf1b",
+        "case_id": "7bfef2dd-5f82-4521-9369-0329e41faf1b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MT-A67G"
+      },
+      {
+        "id": "7de19081-d5fd-468c-ad0d-f6e3e8b2ad70",
+        "case_id": "7de19081-d5fd-468c-ad0d-f6e3e8b2ad70",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-4076"
+      },
+      {
+        "id": "c7885e34-d5dc-4256-a4ad-944a27dfcfc2",
+        "case_id": "c7885e34-d5dc-4256-a4ad-944a27dfcfc2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6T4"
+      },
+      {
+        "id": "80593c77-4530-413b-bb05-adca5d43bb82",
+        "case_id": "80593c77-4530-413b-bb05-adca5d43bb82",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-7872"
+      },
+      {
+        "id": "17885905-280f-40fa-943e-346ed45403ea",
+        "case_id": "17885905-280f-40fa-943e-346ed45403ea",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6DA"
+      },
+      {
+        "id": "829b41b1-693b-4f7f-a5c2-68c14b079aae",
+        "case_id": "829b41b1-693b-4f7f-a5c2-68c14b079aae",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-7848"
+      },
+      {
+        "id": "10b3f56a-e61e-486b-8d3c-176668d5dc34",
+        "case_id": "10b3f56a-e61e-486b-8d3c-176668d5dc34",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-5631"
+      },
+      {
+        "id": "832316ee-08ab-412b-9e4d-8a57ff84bc11",
+        "case_id": "832316ee-08ab-412b-9e4d-8a57ff84bc11",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7391"
+      },
+      {
+        "id": "84fd72d1-f79d-493b-a341-826acd4aa942",
+        "case_id": "84fd72d1-f79d-493b-a341-826acd4aa942",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6436"
+      },
+      {
+        "id": "f1b7b418-80d2-4ddf-94cd-f79abba0a2a4",
+        "case_id": "f1b7b418-80d2-4ddf-94cd-f79abba0a2a4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-8314"
+      },
+      {
+        "id": "85ae3b0f-3a54-4a23-be25-9a4deebbc011",
+        "case_id": "85ae3b0f-3a54-4a23-be25-9a4deebbc011",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A50G"
+      },
+      {
+        "id": "865c624a-d52d-4c53-9904-40014cb8cce7",
+        "case_id": "865c624a-d52d-4c53-9904-40014cb8cce7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6JO"
+      },
+      {
+        "id": "468061c2-0acb-4f67-a357-99ccbd81a8b7",
+        "case_id": "468061c2-0acb-4f67-a357-99ccbd81a8b7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45Y"
+      },
+      {
+        "id": "8980fb06-e38d-459f-a777-52048d492def",
+        "case_id": "8980fb06-e38d-459f-a777-52048d492def",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A8Z9"
+      },
+      {
+        "id": "890b5a8b-703d-428d-8833-bc0ce26e80aa",
+        "case_id": "890b5a8b-703d-428d-8833-bc0ce26e80aa",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7370"
+      },
+      {
+        "id": "8b574abc-646b-4252-8eb7-b9c737d034d9",
+        "case_id": "8b574abc-646b-4252-8eb7-b9c737d034d9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6943"
+      },
+      {
+        "id": "1dd23cd6-3aa8-4553-8813-04701451846e",
+        "case_id": "1dd23cd6-3aa8-4553-8813-04701451846e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7103"
+      },
+      {
+        "id": "8c238d30-df8e-4e6b-98fc-21696269a294",
+        "case_id": "8c238d30-df8e-4e6b-98fc-21696269a294",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6956"
+      },
+      {
+        "id": "f33aa93f-b32d-4c4f-9a71-1e5ab69c6899",
+        "case_id": "f33aa93f-b32d-4c4f-9a71-1e5ab69c6899",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6989"
+      },
+      {
+        "id": "8f044599-3fbe-4b69-b67d-49aee9168545",
+        "case_id": "8f044599-3fbe-4b69-b67d-49aee9168545",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7178"
+      },
+      {
+        "id": "b295a542-f5b3-4b81-84ed-3704b944a8e3",
+        "case_id": "b295a542-f5b3-4b81-84ed-3704b944a8e3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A719"
+      },
+      {
+        "id": "8f6c64c9-7799-436d-bff0-b166e56532a8",
+        "case_id": "8f6c64c9-7799-436d-bff0-b166e56532a8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A61W"
+      },
+      {
+        "id": "8fc1f1be-d2d5-4b3a-9973-f4d964018beb",
+        "case_id": "8fc1f1be-d2d5-4b3a-9973-f4d964018beb",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5973"
+      },
+      {
+        "id": "0858c8b7-e2eb-4461-b65e-9d476029ad8d",
+        "case_id": "0858c8b7-e2eb-4461-b65e-9d476029ad8d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7250"
+      },
+      {
+        "id": "90a8d2cb-1f31-45f9-8575-eed3cb9a7798",
+        "case_id": "90a8d2cb-1f31-45f9-8575-eed3cb9a7798",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7100"
+      },
+      {
+        "id": "90d21b9b-dbb8-43a6-9817-67ed69fabdc0",
+        "case_id": "90d21b9b-dbb8-43a6-9817-67ed69fabdc0",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A61H"
+      },
+      {
+        "id": "90d3c240-5cb6-4601-a852-b5cdfbcd6483",
+        "case_id": "90d3c240-5cb6-4601-a852-b5cdfbcd6483",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7428"
+      },
+      {
+        "id": "78fcc813-d0a8-44aa-b004-62810dca9d12",
+        "case_id": "78fcc813-d0a8-44aa-b004-62810dca9d12",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7238"
+      },
+      {
+        "id": "91e30123-2265-4cf1-8389-f6462897837c",
+        "case_id": "91e30123-2265-4cf1-8389-f6462897837c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7402"
+      },
+      {
+        "id": "06580cbc-d0d8-4b97-87ef-ebc17cdae81c",
+        "case_id": "06580cbc-d0d8-4b97-87ef-ebc17cdae81c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MZ-A7D7"
+      },
+      {
+        "id": "9283709d-d019-4291-a097-611a5c05244b",
+        "case_id": "9283709d-d019-4291-a097-611a5c05244b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6020"
+      },
+      {
+        "id": "7152edc3-0a5b-4aed-b0c6-63f913dff272",
+        "case_id": "7152edc3-0a5b-4aed-b0c6-63f913dff272",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4728"
+      },
+      {
+        "id": "9413432e-24fe-428a-b464-1a5bcdbf5f74",
+        "case_id": "9413432e-24fe-428a-b464-1a5bcdbf5f74",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45V"
+      },
+      {
+        "id": "765cc306-bdae-4caf-ad1e-35b8fe95c220",
+        "case_id": "765cc306-bdae-4caf-ad1e-35b8fe95c220",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-A4C1"
+      },
+      {
+        "id": "96163e94-4a14-4907-a57a-cfab4caf19a4",
+        "case_id": "96163e94-4a14-4907-a57a-cfab4caf19a4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4723"
+      },
+      {
+        "id": "32aac152-322b-4d7f-a78b-448fecdf17bf",
+        "case_id": "32aac152-322b-4d7f-a78b-448fecdf17bf",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A71D"
+      },
+      {
+        "id": "0f4bb968-6e10-4a86-a03e-37b61d084f31",
+        "case_id": "0f4bb968-6e10-4a86-a03e-37b61d084f31",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7393"
+      },
+      {
+        "id": "9a76bd98-1d2b-4d0f-9772-883520ff6210",
+        "case_id": "9a76bd98-1d2b-4d0f-9772-883520ff6210",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6481"
+      },
+      {
+        "id": "31202ace-6480-46db-8e0d-b4c64149e326",
+        "case_id": "31202ace-6480-46db-8e0d-b4c64149e326",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-7863"
+      },
+      {
+        "id": "9bcf4ed8-bfb4-49aa-a37e-d91325926894",
+        "case_id": "9bcf4ed8-bfb4-49aa-a37e-d91325926894",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6962"
+      },
+      {
+        "id": "fb7672f9-5dab-4204-a137-c5fb84903892",
+        "case_id": "fb7672f9-5dab-4204-a137-c5fb84903892",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7243"
+      },
+      {
+        "id": "9d0f5938-6a01-4c06-8536-dff834f7f2f9",
+        "case_id": "9d0f5938-6a01-4c06-8536-dff834f7f2f9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7097"
+      },
+      {
+        "id": "9d469689-0413-4898-aa83-c6756cbfe117",
+        "case_id": "9d469689-0413-4898-aa83-c6756cbfe117",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HL-7533"
+      },
+      {
+        "id": "9f771c36-16ec-4770-bc53-f6c861343f1c",
+        "case_id": "9f771c36-16ec-4770-bc53-f6c861343f1c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6474"
+      },
+      {
+        "id": "6a1aa50c-097c-4e04-8ddd-12d50f8a5ac2",
+        "case_id": "6a1aa50c-097c-4e04-8ddd-12d50f8a5ac2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-5558"
+      },
+      {
+        "id": "9ffa79fa-d2d8-48e1-8fd6-4b020ecf357c",
+        "case_id": "9ffa79fa-d2d8-48e1-8fd6-4b020ecf357c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5330"
+      },
+      {
+        "id": "f4343626-f677-4fe5-862b-8fb4a16262bf",
+        "case_id": "f4343626-f677-4fe5-862b-8fb4a16262bf",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7254"
+      },
+      {
+        "id": "a1066aea-3122-4887-83d0-132ef84c06e1",
+        "case_id": "a1066aea-3122-4887-83d0-132ef84c06e1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6K2"
+      },
+      {
+        "id": "64a195f6-2212-4e81-bccc-e39c77a10908",
+        "case_id": "64a195f6-2212-4e81-bccc-e39c77a10908",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-C9-A47Z"
+      },
+      {
+        "id": "a2d42990-747c-4618-88dd-e2dece8e566f",
+        "case_id": "a2d42990-747c-4618-88dd-e2dece8e566f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A8YP"
+      },
+      {
+        "id": "692b50fc-19ca-4926-84cb-fd7168209e44",
+        "case_id": "692b50fc-19ca-4926-84cb-fd7168209e44",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-5247"
+      },
+      {
+        "id": "a3f98e70-7050-46cf-a679-ca7a83f4442f",
+        "case_id": "a3f98e70-7050-46cf-a679-ca7a83f4442f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A63T"
+      },
+      {
+        "id": "657346f2-4280-4d80-983e-cab8004f184a",
+        "case_id": "657346f2-4280-4d80-983e-cab8004f184a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5332"
+      },
+      {
+        "id": "a40f1055-3dc4-4d01-930c-92cf314f73f8",
+        "case_id": "a40f1055-3dc4-4d01-930c-92cf314f73f8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-7917"
+      },
+      {
+        "id": "a4fcb7fd-9c22-4486-99c5-97da050c9fb3",
+        "case_id": "a4fcb7fd-9c22-4486-99c5-97da050c9fb3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5430"
+      },
+      {
+        "id": "a55fb87d-f606-48a5-82f5-09eacbacf41b",
+        "case_id": "a55fb87d-f606-48a5-82f5-09eacbacf41b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-5151"
+      },
+      {
+        "id": "e2e64c5d-44ba-42f0-ab9d-ec16b21d2545",
+        "case_id": "e2e64c5d-44ba-42f0-ab9d-ec16b21d2545",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7401"
+      },
+      {
+        "id": "207c8a26-1a2d-47d9-8db8-a25a7fd8655a",
+        "case_id": "207c8a26-1a2d-47d9-8db8-a25a7fd8655a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6DB"
+      },
+      {
+        "id": "a6622196-897f-469e-a21d-c4a12ed39908",
+        "case_id": "a6622196-897f-469e-a21d-c4a12ed39908",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7395"
+      },
+      {
+        "id": "50239d1d-b3a4-4240-ab83-b24ba67b1299",
+        "case_id": "50239d1d-b3a4-4240-ab83-b24ba67b1299",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5977"
+      },
+      {
+        "id": "a9017cd4-df30-46eb-b08f-39540b15243f",
+        "case_id": "a9017cd4-df30-46eb-b08f-39540b15243f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-5248"
+      },
+      {
+        "id": "aa34f900-b2e4-4276-9d28-807ad11444ac",
+        "case_id": "aa34f900-b2e4-4276-9d28-807ad11444ac",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7104"
+      },
+      {
+        "id": "63f6a127-e4e8-4e1c-8236-a2adb9594c8f",
+        "case_id": "63f6a127-e4e8-4e1c-8236-a2adb9594c8f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-6824"
+      },
+      {
+        "id": "abbcc1d8-ab74-4459-bf28-cc627bef440e",
+        "case_id": "abbcc1d8-ab74-4459-bf28-cc627bef440e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-KU-A6H7"
+      },
+      {
+        "id": "01420c4e-6013-4d3f-87bd-a6cd9e3f8e87",
+        "case_id": "01420c4e-6013-4d3f-87bd-a6cd9e3f8e87",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-5152"
+      },
+      {
+        "id": "02dcc11f-4f0e-4c9e-8d96-d22d47beef5d",
+        "case_id": "02dcc11f-4f0e-4c9e-8d96-d22d47beef5d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5329"
+      },
+      {
+        "id": "af31bf2c-8523-4376-bfa8-e2845848d651",
+        "case_id": "af31bf2c-8523-4376-bfa8-e2845848d651",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6010"
+      },
+      {
+        "id": "b1b3983d-37d2-4bef-bd17-708e3e600146",
+        "case_id": "b1b3983d-37d2-4bef-bd17-708e3e600146",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6JU"
+      },
+      {
+        "id": "03b57fee-55c7-4873-b7ef-e29abd98863a",
+        "case_id": "03b57fee-55c7-4873-b7ef-e29abd98863a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A6V1"
+      },
+      {
+        "id": "03c3ae62-d0aa-412e-bd3c-4577fc9f919c",
+        "case_id": "03c3ae62-d0aa-412e-bd3c-4577fc9f919c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-A6UM"
+      },
+      {
+        "id": "044579ef-16a6-4f00-b951-edc423d8a14f",
+        "case_id": "044579ef-16a6-4f00-b951-edc423d8a14f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5361"
+      },
+      {
+        "id": "b41fab9f-af83-4ea2-89fb-a5999b168412",
+        "case_id": "b41fab9f-af83-4ea2-89fb-a5999b168412",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6DF"
+      },
+      {
+        "id": "06060406-0540-4d5a-adeb-4cc46c01c782",
+        "case_id": "06060406-0540-4d5a-adeb-4cc46c01c782",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-7069"
+      },
+      {
+        "id": "b4a41682-4aca-4f1d-bacd-66f5e6ec7466",
+        "case_id": "b4a41682-4aca-4f1d-bacd-66f5e6ec7466",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-5624"
+      },
+      {
+        "id": "06a802b9-0b5c-4ee4-9823-56d2e8c78422",
+        "case_id": "06a802b9-0b5c-4ee4-9823-56d2e8c78422",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5333"
+      },
+      {
+        "id": "08a45833-16a3-4a57-a310-307ec086e558",
+        "case_id": "08a45833-16a3-4a57-a310-307ec086e558",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7438"
+      },
+      {
+        "id": "b80fdc9a-341d-4277-9664-8e8f770d9ddd",
+        "case_id": "b80fdc9a-341d-4277-9664-8e8f770d9ddd",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4734"
+      },
+      {
+        "id": "b815fae9-c595-4c76-acc6-6d38b9af9578",
+        "case_id": "b815fae9-c595-4c76-acc6-6d38b9af9578",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-RS-A6TO"
+      },
+      {
+        "id": "0f25d7fd-fc7c-4563-a8bd-80b5e0c32ea2",
+        "case_id": "0f25d7fd-fc7c-4563-a8bd-80b5e0c32ea2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-7596"
+      },
+      {
+        "id": "b835289f-6174-4bf9-aedf-9ebb9ef4eb62",
+        "case_id": "b835289f-6174-4bf9-aedf-9ebb9ef4eb62",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A61O"
+      },
+      {
+        "id": "0fb3e5ff-54f0-43c5-9322-541bb7825e7f",
+        "case_id": "0fb3e5ff-54f0-43c5-9322-541bb7825e7f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4736"
+      },
+      {
+        "id": "b9aac2a5-5ca9-4f57-ba02-b53904256467",
+        "case_id": "b9aac2a5-5ca9-4f57-ba02-b53904256467",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A61I"
+      },
+      {
+        "id": "10d0a058-3e5e-4916-84c4-25f934b96f86",
+        "case_id": "10d0a058-3e5e-4916-84c4-25f934b96f86",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5440"
+      },
+      {
+        "id": "bd75d8ee-916b-4abc-bf33-bce6a4217076",
+        "case_id": "bd75d8ee-916b-4abc-bf33-bce6a4217076",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A4IH"
+      },
+      {
+        "id": "119ea204-792b-49ec-8fd4-eb88c4f91042",
+        "case_id": "119ea204-792b-49ec-8fd4-eb88c4f91042",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A71E"
+      },
+      {
+        "id": "bf6b931e-cb2e-4cc0-b603-e9fc71fdc509",
+        "case_id": "bf6b931e-cb2e-4cc0-b603-e9fc71fdc509",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-6873"
+      },
+      {
+        "id": "12d94c6e-323f-450b-b510-f2ab4671e0fa",
+        "case_id": "12d94c6e-323f-450b-b510-f2ab4671e0fa",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JV"
+      },
+      {
+        "id": "c060bdab-dce7-46b9-801c-48dfab4fad92",
+        "case_id": "c060bdab-dce7-46b9-801c-48dfab4fad92",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MT-A7BN"
+      },
+      {
+        "id": "13e936ff-81f0-49b9-bc2e-2ea43921f450",
+        "case_id": "13e936ff-81f0-49b9-bc2e-2ea43921f450",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6T3"
+      },
+      {
+        "id": "c1f286f6-d4a1-494a-88c8-ff8e2a3df2ce",
+        "case_id": "c1f286f6-d4a1-494a-88c8-ff8e2a3df2ce",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A6IH"
+      },
+      {
+        "id": "1465b7ec-8d2b-47dd-8387-977eed44cc86",
+        "case_id": "1465b7ec-8d2b-47dd-8387-977eed44cc86",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5971"
+      },
+      {
+        "id": "c4ad0479-8bef-4876-b423-fe83f222a60a",
+        "case_id": "c4ad0479-8bef-4876-b423-fe83f222a60a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7446"
+      },
+      {
+        "id": "15eb8d88-adb1-4f4f-a44d-087049db60ce",
+        "case_id": "15eb8d88-adb1-4f4f-a44d-087049db60ce",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4CD"
+      },
+      {
+        "id": "16779eed-f386-4e8f-8475-04d33b9dd160",
+        "case_id": "16779eed-f386-4e8f-8475-04d33b9dd160",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7383"
+      },
+      {
+        "id": "c539274c-e2bf-4b5f-ab56-35eff1569bac",
+        "case_id": "c539274c-e2bf-4b5f-ab56-35eff1569bac",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7177"
+      },
+      {
+        "id": "180036a2-3b56-405e-a1fe-d5932517b6c7",
+        "case_id": "180036a2-3b56-405e-a1fe-d5932517b6c7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5443"
+      },
+      {
+        "id": "18334157-aa38-4859-a786-99a920a1fbe3",
+        "case_id": "18334157-aa38-4859-a786-99a920a1fbe3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CX-A4AQ"
+      },
+      {
+        "id": "c9a36eb5-ac3e-424e-bc2e-303de7105957",
+        "case_id": "c9a36eb5-ac3e-424e-bc2e-303de7105957",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6DL"
+      },
+      {
+        "id": "cb78efb3-bc29-4de7-9128-fdc4f9539b48",
+        "case_id": "cb78efb3-bc29-4de7-9128-fdc4f9539b48",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6DI"
+      },
+      {
+        "id": "1c25aad5-13f5-44dc-a18f-425d7626ce55",
+        "case_id": "1c25aad5-13f5-44dc-a18f-425d7626ce55",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5334"
+      },
+      {
+        "id": "1c509ba7-2edf-4428-bd39-109c78b3fb30",
+        "case_id": "1c509ba7-2edf-4428-bd39-109c78b3fb30",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45P"
+      },
+      {
+        "id": "1c801a6b-8407-46da-b6cc-245f05418b9e",
+        "case_id": "1c801a6b-8407-46da-b6cc-245f05418b9e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A468"
+      },
+      {
+        "id": "cd032ddb-55f2-4c77-8dcf-e4e630f7de6f",
+        "case_id": "cd032ddb-55f2-4c77-8dcf-e4e630f7de6f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6470"
+      },
+      {
+        "id": "1ca54115-93a3-4c0e-abf0-915b4bbff10c",
+        "case_id": "1ca54115-93a3-4c0e-abf0-915b4bbff10c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JK"
+      },
+      {
+        "id": "d296cdb5-a0f6-40cc-8ce7-73e4ccd176f3",
+        "case_id": "d296cdb5-a0f6-40cc-8ce7-73e4ccd176f3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7394"
+      },
+      {
+        "id": "1f6167d9-c99d-4873-8d6e-e62a1c964135",
+        "case_id": "1f6167d9-c99d-4873-8d6e-e62a1c964135",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5970"
+      },
+      {
+        "id": "d3f786a6-5d72-4d6e-85fd-0c6ade9f6e95",
+        "case_id": "d3f786a6-5d72-4d6e-85fd-0c6ade9f6e95",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A61E"
+      },
+      {
+        "id": "d5e136fd-b6fc-4400-88d3-30d10cbd9801",
+        "case_id": "d5e136fd-b6fc-4400-88d3-30d10cbd9801",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6K0"
+      },
+      {
+        "id": "20ece2ca-8601-4cca-aec5-0a5c0b92594d",
+        "case_id": "20ece2ca-8601-4cca-aec5-0a5c0b92594d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-7065"
+      },
+      {
+        "id": "2135b007-b714-495b-9b30-92010179ec33",
+        "case_id": "2135b007-b714-495b-9b30-92010179ec33",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A718"
+      },
+      {
+        "id": "d622bcab-5b5a-45a4-8c02-7bcfdbbb781c",
+        "case_id": "d622bcab-5b5a-45a4-8c02-7bcfdbbb781c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-7072"
+      },
+      {
+        "id": "22233a31-023f-412f-9b42-73b58c51dee8",
+        "case_id": "22233a31-023f-412f-9b42-73b58c51dee8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A63U"
+      },
+      {
+        "id": "d7641ca1-a062-4dd2-9414-447af7311a84",
+        "case_id": "d7641ca1-a062-4dd2-9414-447af7311a84",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5374"
+      },
+      {
+        "id": "23c4e2eb-142b-4fcc-a974-9a248aec3f37",
+        "case_id": "23c4e2eb-142b-4fcc-a974-9a248aec3f37",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6017"
+      },
+      {
+        "id": "d86fd392-fa5c-4142-a647-440e6c32d478",
+        "case_id": "d86fd392-fa5c-4142-a647-440e6c32d478",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6224"
+      },
+      {
+        "id": "248fa778-0758-4681-a31f-371ea8d376e6",
+        "case_id": "248fa778-0758-4681-a31f-371ea8d376e6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-4217"
+      },
+      {
+        "id": "dbdeb4ca-f67c-4d89-af60-88b425ebe461",
+        "case_id": "dbdeb4ca-f67c-4d89-af60-88b425ebe461",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-T3-A92M"
+      },
+      {
+        "id": "26cb1330-ce48-4006-8155-f6d52d3ab9b6",
+        "case_id": "26cb1330-ce48-4006-8155-f6d52d3ab9b6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4CI"
+      },
+      {
+        "id": "dbf4e04d-095e-4554-a48c-fe7cb711ac42",
+        "case_id": "dbf4e04d-095e-4554-a48c-fe7cb711ac42",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5331"
+      },
+      {
+        "id": "27707915-d36e-4da7-9b39-2fdd9ce0bdc5",
+        "case_id": "27707915-d36e-4da7-9b39-2fdd9ce0bdc5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A464"
+      },
+      {
+        "id": "de206681-3e27-4d4f-8669-aefb12b5b1e3",
+        "case_id": "de206681-3e27-4d4f-8669-aefb12b5b1e3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7183"
+      },
+      {
+        "id": "df132eb8-174b-4427-a16b-953e0f28bf2f",
+        "case_id": "df132eb8-174b-4427-a16b-953e0f28bf2f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7430"
+      },
+      {
+        "id": "df37eed0-ea63-485d-a831-28d3061852bd",
+        "case_id": "df37eed0-ea63-485d-a831-28d3061852bd",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4CA"
+      },
+      {
+        "id": "dff4246a-57ea-46f2-a5bc-7aa82e494137",
+        "case_id": "dff4246a-57ea-46f2-a5bc-7aa82e494137",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5326"
+      },
+      {
+        "id": "e08ff4f7-62fd-4240-9e8b-c3ad7a9b2c44",
+        "case_id": "e08ff4f7-62fd-4240-9e8b-c3ad7a9b2c44",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A460"
+      },
+      {
+        "id": "2a7b4613-f908-4e78-98ed-857dcd7ed774",
+        "case_id": "2a7b4613-f908-4e78-98ed-857dcd7ed774",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CX-7085"
+      },
+      {
+        "id": "e1527704-8a97-445f-a5ee-357920cb28f7",
+        "case_id": "e1527704-8a97-445f-a5ee-357920cb28f7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4CE"
+      },
+      {
+        "id": "2c7f1035-5c8c-4c49-8b9b-2f1233896530",
+        "case_id": "2c7f1035-5c8c-4c49-8b9b-2f1233896530",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A71A"
+      },
+      {
+        "id": "e303b8c4-6428-4134-bb9d-a95dc1d8e35e",
+        "case_id": "e303b8c4-6428-4134-bb9d-a95dc1d8e35e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6228"
+      },
+      {
+        "id": "2c96d3c4-323e-4a2a-9132-40e860b701a5",
+        "case_id": "2c96d3c4-323e-4a2a-9132-40e860b701a5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A61K"
+      },
+      {
+        "id": "e37c83dc-c2c4-4e5f-a57b-39ffcf9aa3cf",
+        "case_id": "e37c83dc-c2c4-4e5f-a57b-39ffcf9aa3cf",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4740"
+      },
+      {
+        "id": "e37f479f-ca05-45e4-ac6d-a974bed6e7f8",
+        "case_id": "e37f479f-ca05-45e4-ac6d-a974bed6e7f8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-5243"
+      },
+      {
+        "id": "e4733700-ff23-43ff-bfa0-e679ce9352c9",
+        "case_id": "e4733700-ff23-43ff-bfa0-e679ce9352c9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-6516"
+      },
+      {
+        "id": "2fbafcc5-896c-4e50-8956-a61540fc89be",
+        "case_id": "2fbafcc5-896c-4e50-8956-a61540fc89be",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7235"
+      },
+      {
+        "id": "e7174299-3ca7-4d51-9048-3ef3efde4e5c",
+        "case_id": "e7174299-3ca7-4d51-9048-3ef3efde4e5c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45Z"
+      },
+      {
+        "id": "30eb06a5-8e88-4c46-bebb-fb93ca07f108",
+        "case_id": "30eb06a5-8e88-4c46-bebb-fb93ca07f108",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5366"
+      },
+      {
+        "id": "e7d1f0dd-eec0-4670-a2ba-00ffe38c6382",
+        "case_id": "e7d1f0dd-eec0-4670-a2ba-00ffe38c6382",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6939"
+      },
+      {
+        "id": "31e58fac-3ac3-4eeb-82d6-3f2b5cb8a60d",
+        "case_id": "31e58fac-3ac3-4eeb-82d6-3f2b5cb8a60d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-7832"
+      },
+      {
+        "id": "e8b0a499-7e9a-4f0e-b552-8e4f284141ed",
+        "case_id": "e8b0a499-7e9a-4f0e-b552-8e4f284141ed",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6473"
+      },
+      {
+        "id": "34227de4-d23c-46d6-b78b-49add24a4b88",
+        "case_id": "34227de4-d23c-46d6-b78b-49add24a4b88",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7248"
+      },
+      {
+        "id": "eaf674dd-9909-4879-b9a3-74253169eddd",
+        "case_id": "eaf674dd-9909-4879-b9a3-74253169eddd",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7432"
+      },
+      {
+        "id": "35c1f2c6-771c-4533-82df-f8e2ec7107d7",
+        "case_id": "35c1f2c6-771c-4533-82df-f8e2ec7107d7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4730"
+      },
+      {
+        "id": "ebe99910-e9f2-43dc-ad57-ac2f610b60c8",
+        "case_id": "ebe99910-e9f2-43dc-ad57-ac2f610b60c8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-6517"
+      },
+      {
+        "id": "37159b2b-e564-47a9-adaa-91b9571ef9de",
+        "case_id": "37159b2b-e564-47a9-adaa-91b9571ef9de",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A6EP"
+      },
+      {
+        "id": "ed46cc12-2edd-4c95-9814-54b5b6682fcd",
+        "case_id": "ed46cc12-2edd-4c95-9814-54b5b6682fcd",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A640"
+      },
+      {
+        "id": "38cfe5af-02e4-4271-8978-8e2566d3dca7",
+        "case_id": "38cfe5af-02e4-4271-8978-8e2566d3dca7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7236"
+      },
+      {
+        "id": "eda29281-e803-4217-8603-d6a388408611",
+        "case_id": "eda29281-e803-4217-8603-d6a388408611",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6471"
+      },
+      {
+        "id": "3a867df4-d548-4408-a90b-441ded53b7b6",
+        "case_id": "3a867df4-d548-4408-a90b-441ded53b7b6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A5Q5"
+      },
+      {
+        "id": "eeae67ac-c9e0-468d-aad6-052501f7b982",
+        "case_id": "eeae67ac-c9e0-468d-aad6-052501f7b982",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-H7-7774"
+      },
+      {
+        "id": "3bd2fcee-5b16-49f3-a717-f1e106bbc12f",
+        "case_id": "3bd2fcee-5b16-49f3-a717-f1e106bbc12f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JF"
+      },
+      {
+        "id": "f030e410-2585-461e-ad23-9fdf026ac06c",
+        "case_id": "f030e410-2585-461e-ad23-9fdf026ac06c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7382"
+      },
+      {
+        "id": "f04f1c1c-6d6d-4a2b-ba88-110b08fcc596",
+        "case_id": "f04f1c1c-6d6d-4a2b-ba88-110b08fcc596",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A74Q"
+      },
+      {
+        "id": "3c5bc678-41e9-46b3-9686-5cd95659ab71",
+        "case_id": "3c5bc678-41e9-46b3-9686-5cd95659ab71",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-6827"
+      },
+      {
+        "id": "3c975b68-4a6e-4c97-a8d1-b9a427d4957c",
+        "case_id": "3c975b68-4a6e-4c97-a8d1-b9a427d4957c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5442"
+      },
+      {
+        "id": "f22eac21-8a74-433a-b65c-3540d14a45cb",
+        "case_id": "f22eac21-8a74-433a-b65c-3540d14a45cb",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7415"
+      },
+      {
+        "id": "3e49a2b8-9b2c-4d15-9773-24df8b4ab2fd",
+        "case_id": "3e49a2b8-9b2c-4d15-9773-24df8b4ab2fd",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A6VC"
+      },
+      {
+        "id": "3e5f451a-5882-4914-ae1a-95c898c2bcca",
+        "case_id": "3e5f451a-5882-4914-ae1a-95c898c2bcca",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-6872"
+      },
+      {
+        "id": "f3a592bc-40c6-4453-9008-630b073e5e8c",
+        "case_id": "f3a592bc-40c6-4453-9008-630b073e5e8c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6937"
+      },
+      {
+        "id": "f3a626e4-2d93-4d13-a34c-de0e0c6118ac",
+        "case_id": "f3a626e4-2d93-4d13-a34c-de0e0c6118ac",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7423"
+      },
+      {
+        "id": "3fb3d96e-85ef-4071-a220-2382f8d9de82",
+        "case_id": "3fb3d96e-85ef-4071-a220-2382f8d9de82",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6K1"
+      },
+      {
+        "id": "f76ab158-2cf9-4df7-b6fe-727dd69a369f",
+        "case_id": "f76ab158-2cf9-4df7-b6fe-727dd69a369f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7377"
+      },
+      {
+        "id": "f88ec55c-4c1e-4593-9c89-1981f220c0f8",
+        "case_id": "f88ec55c-4c1e-4593-9c89-1981f220c0f8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UP-A6WW"
+      },
+      {
+        "id": "408c5d54-7888-4955-8386-bf8819b48a6c",
+        "case_id": "408c5d54-7888-4955-8386-bf8819b48a6c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5325"
+      },
+      {
+        "id": "f9e82d62-fafc-45b0-97cf-d1a4a3c884a1",
+        "case_id": "f9e82d62-fafc-45b0-97cf-d1a4a3c884a1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-WA-A7GZ"
+      },
+      {
+        "id": "fa9f6b24-16b4-4dda-acce-bf2e186d365d",
+        "case_id": "fa9f6b24-16b4-4dda-acce-bf2e186d365d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A463"
+      },
+      {
+        "id": "fbdab01c-191c-4aef-9451-ca3afec55fa1",
+        "case_id": "fbdab01c-191c-4aef-9451-ca3afec55fa1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-6823"
+      },
+      {
+        "id": "432fbb6c-331f-4d2d-834d-f6378d88107a",
+        "case_id": "432fbb6c-331f-4d2d-834d-f6378d88107a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6JD"
+      },
+      {
+        "id": "ff38628e-8abe-44d6-8d3b-7cfe46bd2e35",
+        "case_id": "ff38628e-8abe-44d6-8d3b-7cfe46bd2e35",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-T2-A6X0"
+      },
+      {
+        "id": "5ed1b22d-99ca-4c21-b5d4-851e4a6217e9",
+        "case_id": "5ed1b22d-99ca-4c21-b5d4-851e4a6217e9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-KU-A66S"
+      },
+      {
+        "id": "a88d6f62-88da-40c4-bc16-7fe58f038b8c",
+        "case_id": "a88d6f62-88da-40c4-bc16-7fe58f038b8c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-A5HZ"
+      },
+      {
+        "id": "5fce954c-11b9-41f4-9471-4b5bdc0efa7f",
+        "case_id": "5fce954c-11b9-41f4-9471-4b5bdc0efa7f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6491"
+      },
+      {
+        "id": "1acda00d-04fb-4d71-99a4-996f92601827",
+        "case_id": "1acda00d-04fb-4d71-99a4-996f92601827",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A6EQ"
+      },
+      {
+        "id": "600fc87b-a177-4bf9-9084-457f7e7e102c",
+        "case_id": "600fc87b-a177-4bf9-9084-457f7e7e102c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7411"
+      },
+      {
+        "id": "602f2512-00b6-44b6-9ed6-f8b010224f8c",
+        "case_id": "602f2512-00b6-44b6-9ed6-f8b010224f8c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A6UY"
+      },
+      {
+        "id": "a98263a5-cc90-4734-b6f1-f0108bfd5cac",
+        "case_id": "a98263a5-cc90-4734-b6f1-f0108bfd5cac",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6492"
+      },
+      {
+        "id": "451e4916-80ee-45f8-ad70-84340868a5a9",
+        "case_id": "451e4916-80ee-45f8-ad70-84340868a5a9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A5Q6"
+      },
+      {
+        "id": "62ca707c-0657-4b7c-863c-99f4ec475972",
+        "case_id": "62ca707c-0657-4b7c-863c-99f4ec475972",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-7594"
+      },
+      {
+        "id": "91728cd6-ed91-49dc-9279-faedbe211a9d",
+        "case_id": "91728cd6-ed91-49dc-9279-faedbe211a9d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6951"
+      },
+      {
+        "id": "db873dbd-d0c0-4a19-80e5-963dcfaf823e",
+        "case_id": "db873dbd-d0c0-4a19-80e5-963dcfaf823e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-T3-A92N"
+      },
+      {
+        "id": "63d646e2-60aa-4bd5-b2ed-6254c9c51be4",
+        "case_id": "63d646e2-60aa-4bd5-b2ed-6254c9c51be4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A6VB"
+      },
+      {
+        "id": "5a03e2b6-4c8b-479a-9036-9859af031da4",
+        "case_id": "5a03e2b6-4c8b-479a-9036-9859af031da4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5327"
+      },
+      {
+        "id": "d947828f-d62f-426b-9710-3c93a7aef05b",
+        "case_id": "d947828f-d62f-426b-9710-3c93a7aef05b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JD"
+      },
+      {
+        "id": "677c9d22-e518-43ab-9668-a606c35a6eeb",
+        "case_id": "677c9d22-e518-43ab-9668-a606c35a6eeb",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-AA3J"
+      },
+      {
+        "id": "67f2ac9b-b9fb-4ffd-ae60-6ff1114e9290",
+        "case_id": "67f2ac9b-b9fb-4ffd-ae60-6ff1114e9290",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7390"
+      },
+      {
+        "id": "d99f39f3-e85a-4073-b6ce-371ba76cea20",
+        "case_id": "d99f39f3-e85a-4073-b6ce-371ba76cea20",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7253"
+      },
+      {
+        "id": "68f612b7-33b4-4ca4-b012-439bfd598888",
+        "case_id": "68f612b7-33b4-4ca4-b012-439bfd598888",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JJ"
+      },
+      {
+        "id": "7e3b90c1-8772-4e12-8050-a156558beb82",
+        "case_id": "7e3b90c1-8772-4e12-8050-a156558beb82",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4739"
+      },
+      {
+        "id": "6a0490ea-d9c6-41cf-bec3-3257e98cc6ed",
+        "case_id": "6a0490ea-d9c6-41cf-bec3-3257e98cc6ed",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4C9"
+      },
+      {
+        "id": "ce603d46-299a-4ffb-84ab-b3b914a561b9",
+        "case_id": "ce603d46-299a-4ffb-84ab-b3b914a561b9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-H7-8502"
+      },
+      {
+        "id": "6f02648b-0c48-46ea-874a-407f951f0409",
+        "case_id": "6f02648b-0c48-46ea-874a-407f951f0409",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A49B"
+      },
+      {
+        "id": "9e178d80-fe90-4998-9dae-726c4beceef7",
+        "case_id": "9e178d80-fe90-4998-9dae-726c4beceef7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-5250"
+      },
+      {
+        "id": "fcf0dc48-b889-4593-a15b-aa715aae7bf5",
+        "case_id": "fcf0dc48-b889-4593-a15b-aa715aae7bf5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6948"
+      },
+      {
+        "id": "714496c5-d221-4397-9c5a-cd2d22603e6f",
+        "case_id": "714496c5-d221-4397-9c5a-cd2d22603e6f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6013"
+      },
+      {
+        "id": "76214b90-c323-4fdc-92f4-1180abdb1380",
+        "case_id": "76214b90-c323-4fdc-92f4-1180abdb1380",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A497"
+      },
+      {
+        "id": "78e67b26-c473-449f-95e7-c4d11f066d5b",
+        "case_id": "78e67b26-c473-449f-95e7-c4d11f066d5b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-5324"
+      },
+      {
+        "id": "32128246-1258-43d1-b1e5-30ae63822c32",
+        "case_id": "32128246-1258-43d1-b1e5-30ae63822c32",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6950"
+      },
+      {
+        "id": "896e37fa-3a6a-481b-b790-5ee62bbdc9fa",
+        "case_id": "896e37fa-3a6a-481b-b790-5ee62bbdc9fa",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A6V3"
+      },
+      {
+        "id": "7a211ce6-3162-4f58-bf24-9b68562913d5",
+        "case_id": "7a211ce6-3162-4f58-bf24-9b68562913d5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A61S"
+      },
+      {
+        "id": "d2ca9a4d-c14c-40c0-871c-88794a02e4aa",
+        "case_id": "d2ca9a4d-c14c-40c0-871c-88794a02e4aa",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7180"
+      },
+      {
+        "id": "7cb42865-af55-487d-b604-faace62bba51",
+        "case_id": "7cb42865-af55-487d-b604-faace62bba51",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6T7"
+      },
+      {
+        "id": "546f01d5-aed5-4fb8-91c0-0fd5e0fde935",
+        "case_id": "546f01d5-aed5-4fb8-91c0-0fd5e0fde935",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5373"
+      },
+      {
+        "id": "7ed006e8-461f-4664-bfff-55fa6812743c",
+        "case_id": "7ed006e8-461f-4664-bfff-55fa6812743c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6952"
+      },
+      {
+        "id": "116ad004-929d-4c8d-8eee-883d132e0fe5",
+        "case_id": "116ad004-929d-4c8d-8eee-883d132e0fe5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6DE"
+      },
+      {
+        "id": "80d51546-c046-4af4-b3b3-b6bf5b1eab02",
+        "case_id": "80d51546-c046-4af4-b3b3-b6bf5b1eab02",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A5QA"
+      },
+      {
+        "id": "03aca47b-7653-4938-9178-ed7c37eee6d5",
+        "case_id": "03aca47b-7653-4938-9178-ed7c37eee6d5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7392"
+      },
+      {
+        "id": "82c47f60-b863-45f9-82dc-72d89753f4b1",
+        "case_id": "82c47f60-b863-45f9-82dc-72d89753f4b1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7J9"
+      },
+      {
+        "id": "aa10d6da-ba20-43e8-ab8f-a9b4b58738b4",
+        "case_id": "aa10d6da-ba20-43e8-ab8f-a9b4b58738b4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6484"
+      },
+      {
+        "id": "0ca3d25a-22e9-4e40-834b-65f402535005",
+        "case_id": "0ca3d25a-22e9-4e40-834b-65f402535005",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6219"
+      },
+      {
+        "id": "837bf19d-1e02-4c3d-9e65-8999f0652020",
+        "case_id": "837bf19d-1e02-4c3d-9e65-8999f0652020",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45T"
+      },
+      {
+        "id": "8970f713-4a7a-4125-892c-6a34139371d8",
+        "case_id": "8970f713-4a7a-4125-892c-6a34139371d8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-5555"
+      },
+      {
+        "id": "85a26115-1160-411b-8384-44eedc947fb2",
+        "case_id": "85a26115-1160-411b-8384-44eedc947fb2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7369"
+      },
+      {
+        "id": "5436b002-4e4f-4d0f-9566-c0ef4d2d1854",
+        "case_id": "5436b002-4e4f-4d0f-9566-c0ef4d2d1854",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-RS-A6TP"
+      },
+      {
+        "id": "241d9310-9137-42dd-b28d-0dc50c44cb43",
+        "case_id": "241d9310-9137-42dd-b28d-0dc50c44cb43",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7101"
+      },
+      {
+        "id": "86a5c819-49e9-4b06-b43d-0f0c06a935fd",
+        "case_id": "86a5c819-49e9-4b06-b43d-0f0c06a935fd",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A8ZA"
+      },
+      {
+        "id": "896f5dcc-d076-4e1f-ae7c-52d21109da7b",
+        "case_id": "896f5dcc-d076-4e1f-ae7c-52d21109da7b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-TN-A7HI"
+      },
+      {
+        "id": "b7ac2f06-012a-436e-afde-7e4d653c84d9",
+        "case_id": "b7ac2f06-012a-436e-afde-7e4d653c84d9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6DG"
+      },
+      {
+        "id": "89f91e36-fed8-4da3-8a35-c761d6f65285",
+        "case_id": "89f91e36-fed8-4da3-8a35-c761d6f65285",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6467"
+      },
+      {
+        "id": "aad9a83a-ab62-47b0-990c-527ccdb58d63",
+        "case_id": "aad9a83a-ab62-47b0-990c-527ccdb58d63",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MZ-A6I9"
+      },
+      {
+        "id": "3a2fe6da-5f3c-4ad8-b735-23adffe3fd6b",
+        "case_id": "3a2fe6da-5f3c-4ad8-b735-23adffe3fd6b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6SW"
+      },
+      {
+        "id": "8b6e939c-c4b0-4d1e-a92c-ea998bc5d36a",
+        "case_id": "8b6e939c-c4b0-4d1e-a92c-ea998bc5d36a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6940"
+      },
+      {
+        "id": "8b9e81da-ea22-4f6a-bdb1-281b0ec8a451",
+        "case_id": "8b9e81da-ea22-4f6a-bdb1-281b0ec8a451",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-T2-A6WX"
+      },
+      {
+        "id": "c9c33b2a-bf99-4563-a220-01a5dbe3be92",
+        "case_id": "c9c33b2a-bf99-4563-a220-01a5dbe3be92",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7433"
+      },
+      {
+        "id": "8e0e456e-85ee-4de5-8f0b-72393d6acde0",
+        "case_id": "8e0e456e-85ee-4de5-8f0b-72393d6acde0",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-6515"
+      },
+      {
+        "id": "0b67f9bb-e469-4b4c-9ce6-6af1c7b1aab2",
+        "case_id": "0b67f9bb-e469-4b4c-9ce6-6af1c7b1aab2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A61V"
+      },
+      {
+        "id": "8f1b904e-39a7-4870-b0f4-efa1d43e50a8",
+        "case_id": "8f1b904e-39a7-4870-b0f4-efa1d43e50a8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6T8"
+      },
+      {
+        "id": "f458d21d-1854-4baf-9eb1-79c29b663804",
+        "case_id": "f458d21d-1854-4baf-9eb1-79c29b663804",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6488"
+      },
+      {
+        "id": "3f2e0c8a-6d5f-4763-be60-5a70994d31a1",
+        "case_id": "3f2e0c8a-6d5f-4763-be60-5a70994d31a1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7386"
+      },
+      {
+        "id": "8b63be59-9ce6-45a0-80d9-4d20f4918cb9",
+        "case_id": "8b63be59-9ce6-45a0-80d9-4d20f4918cb9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7407"
+      },
+      {
+        "id": "9023c9bf-02a0-4396-8161-304089957b62",
+        "case_id": "9023c9bf-02a0-4396-8161-304089957b62",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6012"
+      },
+      {
+        "id": "b6d1490a-ae85-4e99-a053-1614b498a081",
+        "case_id": "b6d1490a-ae85-4e99-a053-1614b498a081",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-H7-A6C5"
+      },
+      {
+        "id": "b39d2880-6964-4c5b-b5a9-ab64e5cb31e8",
+        "case_id": "b39d2880-6964-4c5b-b5a9-ab64e5cb31e8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A49C"
+      },
+      {
+        "id": "6a82a217-f7a2-4697-98a6-6c6553e8fac1",
+        "case_id": "6a82a217-f7a2-4697-98a6-6c6553e8fac1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6JT"
+      },
+      {
+        "id": "9180e195-dae9-4af9-90cf-71778bc9aefc",
+        "case_id": "9180e195-dae9-4af9-90cf-71778bc9aefc",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45R"
+      },
+      {
+        "id": "91a712b5-a724-48d0-ba06-4f6857683463",
+        "case_id": "91a712b5-a724-48d0-ba06-4f6857683463",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-5630"
+      },
+      {
+        "id": "e08e1d99-81e1-454a-9bda-cda92c9e22b4",
+        "case_id": "e08e1d99-81e1-454a-9bda-cda92c9e22b4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A4ZB"
+      },
+      {
+        "id": "9205dc07-93f5-4b5e-924e-8e097616160f",
+        "case_id": "9205dc07-93f5-4b5e-924e-8e097616160f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-A6HZ"
+      },
+      {
+        "id": "4199c571-f20f-4873-afd3-5393f2f8d2db",
+        "case_id": "4199c571-f20f-4873-afd3-5393f2f8d2db",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-WA-A7H4"
+      },
+      {
+        "id": "93b742eb-5fc3-4ce2-b7f6-c89f97e0dcc9",
+        "case_id": "93b742eb-5fc3-4ce2-b7f6-c89f97e0dcc9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7263"
+      },
+      {
+        "id": "62887787-9385-470a-a993-98ede58f0940",
+        "case_id": "62887787-9385-470a-a993-98ede58f0940",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7364"
+      },
+      {
+        "id": "96d0cefe-7949-4736-a7dc-1e4fa94765ec",
+        "case_id": "96d0cefe-7949-4736-a7dc-1e4fa94765ec",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6220"
+      },
+      {
+        "id": "97640ef0-0259-4244-95ba-48d28c60b372",
+        "case_id": "97640ef0-0259-4244-95ba-48d28c60b372",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4738"
+      },
+      {
+        "id": "94a47bf8-f673-45cb-a8d3-1031317d03b3",
+        "case_id": "94a47bf8-f673-45cb-a8d3-1031317d03b3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5436"
+      },
+      {
+        "id": "9ae5101b-6031-4ab1-bfca-198c41af3184",
+        "case_id": "9ae5101b-6031-4ab1-bfca-198c41af3184",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6487"
+      },
+      {
+        "id": "55deab98-29c3-45a1-bc13-bce3f13ad481",
+        "case_id": "55deab98-29c3-45a1-bc13-bce3f13ad481",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JO"
+      },
+      {
+        "id": "9bf40eeb-9a87-44a2-a782-197ab954c937",
+        "case_id": "9bf40eeb-9a87-44a2-a782-197ab954c937",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-KU-A6H8"
+      },
+      {
+        "id": "0871333c-1088-4af1-a365-12256643c5bd",
+        "case_id": "0871333c-1088-4af1-a365-12256643c5bd",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6935"
+      },
+      {
+        "id": "387db1df-ebaa-41c2-b036-f46ad61e313a",
+        "case_id": "387db1df-ebaa-41c2-b036-f46ad61e313a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A5QE"
+      },
+      {
+        "id": "9f89510c-ed07-471f-b35e-7c87c237b9fe",
+        "case_id": "9f89510c-ed07-471f-b35e-7c87c237b9fe",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7385"
+      },
+      {
+        "id": "fafd6f5b-1d76-4537-bd1c-e0bd7b4e2166",
+        "case_id": "fafd6f5b-1d76-4537-bd1c-e0bd7b4e2166",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-6869"
+      },
+      {
+        "id": "a0b136fb-3a0a-4411-8907-4ca775c7d04e",
+        "case_id": "a0b136fb-3a0a-4411-8907-4ca775c7d04e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-A634"
+      },
+      {
+        "id": "c2f1b2d5-1302-4e29-8889-37ba34e91de2",
+        "case_id": "c2f1b2d5-1302-4e29-8889-37ba34e91de2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A6SG"
+      },
+      {
+        "id": "a1ded1e8-eb28-49dd-8f3d-1ce8f40eed8f",
+        "case_id": "a1ded1e8-eb28-49dd-8f3d-1ce8f40eed8f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A642"
+      },
+      {
+        "id": "42bc2336-2408-441a-83b9-aadc9700f750",
+        "case_id": "42bc2336-2408-441a-83b9-aadc9700f750",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-6825"
+      },
+      {
+        "id": "a3d89882-6d5b-497a-a9e4-a8b8908c3ff4",
+        "case_id": "a3d89882-6d5b-497a-a9e4-a8b8908c3ff4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A499"
+      },
+      {
+        "id": "ffcf851d-7fa1-4b45-911a-a3fbd74c253a",
+        "case_id": "ffcf851d-7fa1-4b45-911a-a3fbd74c253a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6016"
+      },
+      {
+        "id": "a40bb4bc-9ee6-4a8b-8a33-3a4ed78f69a7",
+        "case_id": "a40bb4bc-9ee6-4a8b-8a33-3a4ed78f69a7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7397"
+      },
+      {
+        "id": "1ae087ac-63f0-4cf9-b698-f5c13e1f4681",
+        "case_id": "1ae087ac-63f0-4cf9-b698-f5c13e1f4681",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-7861"
+      },
+      {
+        "id": "a4e90f64-d11a-4278-a79e-d64c936e8e86",
+        "case_id": "a4e90f64-d11a-4278-a79e-d64c936e8e86",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6953"
+      },
+      {
+        "id": "70741b73-9683-42bd-87fc-6a021a70103b",
+        "case_id": "70741b73-9683-42bd-87fc-6a021a70103b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-5556"
+      },
+      {
+        "id": "91d44093-d8d9-442c-92ed-e659c45b4e0a",
+        "case_id": "91d44093-d8d9-442c-92ed-e659c45b4e0a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6T6"
+      },
+      {
+        "id": "a563109d-0990-4bdc-8bd7-6766d1eadbdc",
+        "case_id": "a563109d-0990-4bdc-8bd7-6766d1eadbdc",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6T2"
+      },
+      {
+        "id": "d83b6b2d-932b-4240-b99d-5506f18af892",
+        "case_id": "d83b6b2d-932b-4240-b99d-5506f18af892",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-7870"
+      },
+      {
+        "id": "a63ca97d-ef31-4118-9547-a6730967290f",
+        "case_id": "a63ca97d-ef31-4118-9547-a6730967290f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-4074"
+      },
+      {
+        "id": "511b1de1-b855-47bb-a2f8-58dc5792be47",
+        "case_id": "511b1de1-b855-47bb-a2f8-58dc5792be47",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7388"
+      },
+      {
+        "id": "a8fe444f-57a5-4364-ab55-09f41ecb4591",
+        "case_id": "a8fe444f-57a5-4364-ab55-09f41ecb4591",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7365"
+      },
+      {
+        "id": "6ecccbf9-bfda-4f5e-9618-3bffaebf4660",
+        "case_id": "6ecccbf9-bfda-4f5e-9618-3bffaebf4660",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-7071"
+      },
+      {
+        "id": "573e3713-781f-447e-9f4d-a7faae4a4f03",
+        "case_id": "573e3713-781f-447e-9f4d-a7faae4a4f03",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A6SH"
+      },
+      {
+        "id": "ac511727-185b-4ac0-b6c0-dc3a79657be6",
+        "case_id": "ac511727-185b-4ac0-b6c0-dc3a79657be6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A8Z8"
+      },
+      {
+        "id": "acd98e20-d2da-4256-99a5-13e261bc88e6",
+        "case_id": "acd98e20-d2da-4256-99a5-13e261bc88e6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7409"
+      },
+      {
+        "id": "ad6c9d09-2c03-4786-a72d-dd2aa5f603d4",
+        "case_id": "ad6c9d09-2c03-4786-a72d-dd2aa5f603d4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CX-7086"
+      },
+      {
+        "id": "0394060d-010e-405f-983d-db525f01f2c3",
+        "case_id": "0394060d-010e-405f-983d-db525f01f2c3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-A5HY"
+      },
+      {
+        "id": "039788ec-1364-40c7-9e9d-13dc305674e9",
+        "case_id": "039788ec-1364-40c7-9e9d-13dc305674e9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6998"
+      },
+      {
+        "id": "b3342767-62bc-407f-8a83-5be50e3bdc3e",
+        "case_id": "b3342767-62bc-407f-8a83-5be50e3bdc3e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7413"
+      },
+      {
+        "id": "b3631718-9e0a-454c-bee1-8f36ebc509d8",
+        "case_id": "b3631718-9e0a-454c-bee1-8f36ebc509d8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-5153"
+      },
+      {
+        "id": "b3bed685-e9db-436b-9938-2b8a0a0d5b83",
+        "case_id": "b3bed685-e9db-436b-9938-2b8a0a0d5b83",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7376"
+      },
+      {
+        "id": "05fbd98c-28bd-41bc-ae60-16ac0c16c723",
+        "case_id": "05fbd98c-28bd-41bc-ae60-16ac0c16c723",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7090"
+      },
+      {
+        "id": "b43b8aed-d166-4f00-8144-24ad3fe314ed",
+        "case_id": "b43b8aed-d166-4f00-8144-24ad3fe314ed",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6493"
+      },
+      {
+        "id": "b47fb978-2dfb-4abc-a5af-6e14dd684182",
+        "case_id": "b47fb978-2dfb-4abc-a5af-6e14dd684182",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A6ES"
+      },
+      {
+        "id": "0625df42-740f-4e52-8f9e-0f5b7dee251b",
+        "case_id": "0625df42-740f-4e52-8f9e-0f5b7dee251b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6JY"
+      },
+      {
+        "id": "b4e0c62d-f2f6-4243-9e0f-ae2ad4ca4bb8",
+        "case_id": "b4e0c62d-f2f6-4243-9e0f-ae2ad4ca4bb8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5358"
+      },
+      {
+        "id": "b64bfca1-033c-4501-a900-103ac105c084",
+        "case_id": "b64bfca1-033c-4501-a900-103ac105c084",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4722"
+      },
+      {
+        "id": "b74519ff-b338-45e9-9307-008223726dac",
+        "case_id": "b74519ff-b338-45e9-9307-008223726dac",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6477"
+      },
+      {
+        "id": "08c95e8f-aa2f-4163-ac43-096053ec6886",
+        "case_id": "08c95e8f-aa2f-4163-ac43-096053ec6886",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6JM"
+      },
+      {
+        "id": "0de19185-3517-4e30-925b-7eb1f5079ec2",
+        "case_id": "0de19185-3517-4e30-925b-7eb1f5079ec2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6DJ"
+      },
+      {
+        "id": "b8307f59-713f-404c-9a82-2450d2ad7507",
+        "case_id": "b8307f59-713f-404c-9a82-2450d2ad7507",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A63V"
+      },
+      {
+        "id": "0f718e17-86c1-4221-a878-d57ae87e744f",
+        "case_id": "0f718e17-86c1-4221-a878-d57ae87e744f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-7831"
+      },
+      {
+        "id": "b98867d7-7d5a-4c58-8878-37bee6f2f4fa",
+        "case_id": "b98867d7-7d5a-4c58-8878-37bee6f2f4fa",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5369"
+      },
+      {
+        "id": "10593e5b-7acb-498b-bdf7-705e3e2bc443",
+        "case_id": "10593e5b-7acb-498b-bdf7-705e3e2bc443",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6JN"
+      },
+      {
+        "id": "ba9d4568-71a8-41fc-a2be-0bf784e36d6a",
+        "case_id": "ba9d4568-71a8-41fc-a2be-0bf784e36d6a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6480"
+      },
+      {
+        "id": "10f53522-9ae7-47b9-80aa-b4b481561465",
+        "case_id": "10f53522-9ae7-47b9-80aa-b4b481561465",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-7754"
+      },
+      {
+        "id": "bdc0a7f5-d0f9-4008-bf4c-51e570ca1ebc",
+        "case_id": "bdc0a7f5-d0f9-4008-bf4c-51e570ca1ebc",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A6IJ"
+      },
+      {
+        "id": "11c944fc-9a49-4c00-ab8c-da5dfd595244",
+        "case_id": "11c944fc-9a49-4c00-ab8c-da5dfd595244",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MT-A67D"
+      },
+      {
+        "id": "bfaa4b3f-3e38-478e-99b3-013f2cda80f5",
+        "case_id": "bfaa4b3f-3e38-478e-99b3-013f2cda80f5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5359"
+      },
+      {
+        "id": "12da9527-cf33-46c6-90cf-65478ff15cf9",
+        "case_id": "12da9527-cf33-46c6-90cf-65478ff15cf9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JT"
+      },
+      {
+        "id": "c0edde5e-d229-4061-8820-14afc712c5b6",
+        "case_id": "c0edde5e-d229-4061-8820-14afc712c5b6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-A633"
+      },
+      {
+        "id": "13f63218-0949-41e6-a661-c844414c45b5",
+        "case_id": "13f63218-0949-41e6-a661-c844414c45b5",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5364"
+      },
+      {
+        "id": "c3b2c38d-81a3-42fd-a41e-6f6de3934007",
+        "case_id": "c3b2c38d-81a3-42fd-a41e-6f6de3934007",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7414"
+      },
+      {
+        "id": "c4060ca5-33e0-4c83-b91c-742d75059bdc",
+        "case_id": "c4060ca5-33e0-4c83-b91c-742d75059bdc",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A6DD"
+      },
+      {
+        "id": "15714e69-e075-4688-8f51-c7102fe4ca07",
+        "case_id": "15714e69-e075-4688-8f51-c7102fe4ca07",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6945"
+      },
+      {
+        "id": "c512ba69-7b90-4334-92eb-48ab91aa05f2",
+        "case_id": "c512ba69-7b90-4334-92eb-48ab91aa05f2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A61G"
+      },
+      {
+        "id": "16d52afb-a954-4cb3-b168-c1501208f691",
+        "case_id": "16d52afb-a954-4cb3-b168-c1501208f691",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-7866"
+      },
+      {
+        "id": "c72ae014-3c05-47f9-8615-6633467bc532",
+        "case_id": "c72ae014-3c05-47f9-8615-6633467bc532",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5441"
+      },
+      {
+        "id": "c7df3466-b9a7-4818-883b-d0cd08483570",
+        "case_id": "c7df3466-b9a7-4818-883b-d0cd08483570",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-5249"
+      },
+      {
+        "id": "1bc03593-5ab6-4082-b157-7ea456845e28",
+        "case_id": "1bc03593-5ab6-4082-b157-7ea456845e28",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JS"
+      },
+      {
+        "id": "cb99fb14-641c-4fb3-bf1d-17efb8cd982a",
+        "case_id": "cb99fb14-641c-4fb3-bf1d-17efb8cd982a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-5149"
+      },
+      {
+        "id": "cc23a09b-bca7-43e0-9ad0-bf272848492e",
+        "case_id": "cc23a09b-bca7-43e0-9ad0-bf272848492e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5435"
+      },
+      {
+        "id": "ccd672df-44d4-421f-8727-0a05e513b6c8",
+        "case_id": "ccd672df-44d4-421f-8727-0a05e513b6c8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-A6UO"
+      },
+      {
+        "id": "1c95de68-18d9-429b-b379-878838f88a72",
+        "case_id": "1c95de68-18d9-429b-b379-878838f88a72",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7367"
+      },
+      {
+        "id": "d189a6c6-210f-4957-b500-457d5ce3f867",
+        "case_id": "d189a6c6-210f-4957-b500-457d5ce3f867",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7404"
+      },
+      {
+        "id": "1e05fdbd-c80b-41c6-9b40-8a7200c92e76",
+        "case_id": "1e05fdbd-c80b-41c6-9b40-8a7200c92e76",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5979"
+      },
+      {
+        "id": "d2e43b2d-2b28-441a-8f03-a43ae7dfc1ce",
+        "case_id": "d2e43b2d-2b28-441a-8f03-a43ae7dfc1ce",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7425"
+      },
+      {
+        "id": "20ad4ac0-6a87-461f-83a5-fded51bf821a",
+        "case_id": "20ad4ac0-6a87-461f-83a5-fded51bf821a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7418"
+      },
+      {
+        "id": "d5eedfb5-4fa3-4a1e-ad0d-ea550b22a5ba",
+        "case_id": "d5eedfb5-4fa3-4a1e-ad0d-ea550b22a5ba",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6433"
+      },
+      {
+        "id": "d69e29ca-24be-4f35-a581-f82e624b8e8b",
+        "case_id": "d69e29ca-24be-4f35-a581-f82e624b8e8b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-A61J"
+      },
+      {
+        "id": "22ae99b4-52cf-4d20-a068-7457e16919b6",
+        "case_id": "22ae99b4-52cf-4d20-a068-7457e16919b6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A6IF"
+      },
+      {
+        "id": "23062172-7361-4e61-8ee6-b0a613d72a24",
+        "case_id": "23062172-7361-4e61-8ee6-b0a613d72a24",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5976"
+      },
+      {
+        "id": "d7d49895-032f-4385-8b68-ae16f8675ca7",
+        "case_id": "d7d49895-032f-4385-8b68-ae16f8675ca7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7095"
+      },
+      {
+        "id": "d82e6c52-9ea4-4f60-989c-cf95d464fd6f",
+        "case_id": "d82e6c52-9ea4-4f60-989c-cf95d464fd6f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-7592"
+      },
+      {
+        "id": "242bdece-75dc-45b9-a9b3-3e1bc305a3e3",
+        "case_id": "242bdece-75dc-45b9-a9b3-3e1bc305a3e3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7373"
+      },
+      {
+        "id": "d89b1fd6-bef4-4803-8ed3-3b442be600b6",
+        "case_id": "d89b1fd6-bef4-4803-8ed3-3b442be600b6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5432"
+      },
+      {
+        "id": "24ecbe19-a9ea-4215-a7f1-74300f9ed2a9",
+        "case_id": "24ecbe19-a9ea-4215-a7f1-74300f9ed2a9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7252"
+      },
+      {
+        "id": "dbe29e97-f111-41d3-a25f-3b9eb9bb099f",
+        "case_id": "dbe29e97-f111-41d3-a25f-3b9eb9bb099f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5434"
+      },
+      {
+        "id": "27392405-1365-49e6-8afe-7c18946ab06e",
+        "case_id": "27392405-1365-49e6-8afe-7c18946ab06e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-KU-A66T"
+      },
+      {
+        "id": "dcb27e14-14ef-42b2-b9a6-7e26c5afa869",
+        "case_id": "dcb27e14-14ef-42b2-b9a6-7e26c5afa869",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A6V9"
+      },
+      {
+        "id": "28d2fd8e-abe9-4ea3-87e4-4f2b61a33c90",
+        "case_id": "28d2fd8e-abe9-4ea3-87e4-4f2b61a33c90",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A4IF"
+      },
+      {
+        "id": "dea53b7f-3e7d-41a3-ae2d-58548fe0b595",
+        "case_id": "dea53b7f-3e7d-41a3-ae2d-58548fe0b595",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7379"
+      },
+      {
+        "id": "291b069c-9dde-4e1e-8430-85146bc94338",
+        "case_id": "291b069c-9dde-4e1e-8430-85146bc94338",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5363"
+      },
+      {
+        "id": "2a192049-6435-49ab-8444-ddeb2b9ee774",
+        "case_id": "2a192049-6435-49ab-8444-ddeb2b9ee774",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7091"
+      },
+      {
+        "id": "2a749317-0156-4213-8482-b2c2d6e52e9b",
+        "case_id": "2a749317-0156-4213-8482-b2c2d6e52e9b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6933"
+      },
+      {
+        "id": "e0acb3aa-4cb4-43c9-ae36-2213536666a6",
+        "case_id": "e0acb3aa-4cb4-43c9-ae36-2213536666a6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7421"
+      },
+      {
+        "id": "2bc1522c-b8c7-4f62-9338-d4b56a7ba6c6",
+        "case_id": "2bc1522c-b8c7-4f62-9338-d4b56a7ba6c6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6942"
+      },
+      {
+        "id": "e1670628-632d-4305-be07-9b9b6bea3350",
+        "case_id": "e1670628-632d-4305-be07-9b9b6bea3350",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6222"
+      },
+      {
+        "id": "e16e9535-b20f-4c9a-8b5b-82df80c99448",
+        "case_id": "e16e9535-b20f-4c9a-8b5b-82df80c99448",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5978"
+      },
+      {
+        "id": "e189f082-c748-43d4-96ce-0c381e376531",
+        "case_id": "e189f082-c748-43d4-96ce-0c381e376531",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7398"
+      },
+      {
+        "id": "2c878227-77a1-4988-a46c-885db9e400f7",
+        "case_id": "2c878227-77a1-4988-a46c-885db9e400f7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A8Z7"
+      },
+      {
+        "id": "e3121dde-eee2-4975-a135-bdb89434a7e2",
+        "case_id": "e3121dde-eee2-4975-a135-bdb89434a7e2",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6T0"
+      },
+      {
+        "id": "2c985b30-0f8f-4c8f-a924-cc6aad7ebf0d",
+        "case_id": "2c985b30-0f8f-4c8f-a924-cc6aad7ebf0d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6960"
+      },
+      {
+        "id": "2d74e19e-9677-491f-b9ea-4874db64747a",
+        "case_id": "2d74e19e-9677-491f-b9ea-4874db64747a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A45W"
+      },
+      {
+        "id": "2e73e016-61ff-4f23-9ca9-fd48d9050d82",
+        "case_id": "2e73e016-61ff-4f23-9ca9-fd48d9050d82",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7422"
+      },
+      {
+        "id": "e48c1481-e35c-49f9-9d13-a5d4085cf876",
+        "case_id": "e48c1481-e35c-49f9-9d13-a5d4085cf876",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6JE"
+      },
+      {
+        "id": "e7a055d9-8d68-4e6b-bade-4b2585757210",
+        "case_id": "e7a055d9-8d68-4e6b-bade-4b2585757210",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4CG"
+      },
+      {
+        "id": "31243867-8e9f-46e9-a213-b83544eb8028",
+        "case_id": "31243867-8e9f-46e9-a213-b83544eb8028",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-6826"
+      },
+      {
+        "id": "e8ac39e6-377a-412c-b18d-f6c4fc654ec6",
+        "case_id": "e8ac39e6-377a-412c-b18d-f6c4fc654ec6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-7753"
+      },
+      {
+        "id": "3203d0ae-5fe9-4ff2-be0a-1d97f7684819",
+        "case_id": "3203d0ae-5fe9-4ff2-be0a-1d97f7684819",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A6IG"
+      },
+      {
+        "id": "e8f0cd72-e423-45e0-ad1e-83aa7fb354e3",
+        "case_id": "e8f0cd72-e423-45e0-ad1e-83aa7fb354e3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-C9-A480"
+      },
+      {
+        "id": "ea93555b-daa5-439a-a13a-796917365454",
+        "case_id": "ea93555b-daa5-439a-a13a-796917365454",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6941"
+      },
+      {
+        "id": "34aad752-d78f-440b-abd2-f9f939c82664",
+        "case_id": "34aad752-d78f-440b-abd2-f9f939c82664",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A498"
+      },
+      {
+        "id": "ebd1be2c-35ca-45c0-9aba-9baf432114c1",
+        "case_id": "ebd1be2c-35ca-45c0-9aba-9baf432114c1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-IQ-7630"
+      },
+      {
+        "id": "360726f4-9b50-422d-b498-5acbbc3713ae",
+        "case_id": "360726f4-9b50-422d-b498-5acbbc3713ae",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-8601"
+      },
+      {
+        "id": "ebfb8c1b-471f-4acb-a1fe-287e02cadba7",
+        "case_id": "ebfb8c1b-471f-4acb-a1fe-287e02cadba7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-H7-A6C4"
+      },
+      {
+        "id": "375e4b96-49da-4f65-9878-29f56fda9c2e",
+        "case_id": "375e4b96-49da-4f65-9878-29f56fda9c2e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MT-A51X"
+      },
+      {
+        "id": "ed6ac43c-d921-4342-aeec-9ff8d8a31919",
+        "case_id": "ed6ac43c-d921-4342-aeec-9ff8d8a31919",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7399"
+      },
+      {
+        "id": "396ccdcb-40eb-4299-8575-b26753054434",
+        "case_id": "396ccdcb-40eb-4299-8575-b26753054434",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6995"
+      },
+      {
+        "id": "eda7df86-a344-4790-88ac-e1391f07f66d",
+        "case_id": "eda7df86-a344-4790-88ac-e1391f07f66d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MT-A67A"
+      },
+      {
+        "id": "ee3061ec-273c-4bef-a325-35e9c469bf01",
+        "case_id": "ee3061ec-273c-4bef-a325-35e9c469bf01",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6019"
+      },
+      {
+        "id": "3aea4cf5-ade6-4747-b1d1-c431564f5fa6",
+        "case_id": "3aea4cf5-ade6-4747-b1d1-c431564f5fa6",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A6II"
+      },
+      {
+        "id": "ef3ce0e5-d2e8-4616-8b1a-a78c591cf235",
+        "case_id": "ef3ce0e5-d2e8-4616-8b1a-a78c591cf235",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6959"
+      },
+      {
+        "id": "3be2ace5-1c2a-49e9-8da9-ceed6119530b",
+        "case_id": "3be2ace5-1c2a-49e9-8da9-ceed6119530b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4725"
+      },
+      {
+        "id": "f090838e-7cc0-4ba8-b3a2-faaa99743785",
+        "case_id": "f090838e-7cc0-4ba8-b3a2-faaa99743785",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-H7-8501"
+      },
+      {
+        "id": "f1099653-fd32-4459-86eb-40e0412ce2fa",
+        "case_id": "f1099653-fd32-4459-86eb-40e0412ce2fa",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A6EM"
+      },
+      {
+        "id": "f13dfdcc-02f8-4a4c-a2fc-e6a45499bd4c",
+        "case_id": "f13dfdcc-02f8-4a4c-a2fc-e6a45499bd4c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A6EN"
+      },
+      {
+        "id": "3d2ff6c0-8c03-440d-8ec1-231862bd6713",
+        "case_id": "3d2ff6c0-8c03-440d-8ec1-231862bd6713",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A8ZB"
+      },
+      {
+        "id": "f35a0655-7504-4bd6-a9f3-6f3e59fd84b1",
+        "case_id": "f35a0655-7504-4bd6-a9f3-6f3e59fd84b1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-A5HU"
+      },
+      {
+        "id": "f383df81-a334-43c6-a5be-ea00013a4f6a",
+        "case_id": "f383df81-a334-43c6-a5be-ea00013a4f6a",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-7064"
+      },
+      {
+        "id": "3ee863da-7991-414f-82d8-2b6502d4c061",
+        "case_id": "3ee863da-7991-414f-82d8-2b6502d4c061",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5439"
+      },
+      {
+        "id": "3ef779cf-772e-445e-93c8-e1094ea8b878",
+        "case_id": "3ef779cf-772e-445e-93c8-e1094ea8b878",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-7591"
+      },
+      {
+        "id": "f6ebe511-a4df-4310-bd59-3a46d43f100b",
+        "case_id": "f6ebe511-a4df-4310-bd59-3a46d43f100b",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-7595"
+      },
+      {
+        "id": "402fd96c-76d3-4ac2-9f64-77bd34be0adb",
+        "case_id": "402fd96c-76d3-4ac2-9f64-77bd34be0adb",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6954"
+      },
+      {
+        "id": "4075717b-2240-4842-a00a-0c4dbcb910c4",
+        "case_id": "4075717b-2240-4842-a00a-0c4dbcb910c4",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6961"
+      },
+      {
+        "id": "f8acc36b-1e7f-44b8-83b7-f894ad201833",
+        "case_id": "f8acc36b-1e7f-44b8-83b7-f894ad201833",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7371"
+      },
+      {
+        "id": "417b357e-c90e-4b63-ae7a-4b782038ffd3",
+        "case_id": "417b357e-c90e-4b63-ae7a-4b782038ffd3",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6003"
+      },
+      {
+        "id": "426a24aa-82c3-42a4-90df-4837871ee286",
+        "case_id": "426a24aa-82c3-42a4-90df-4837871ee286",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6988"
+      },
+      {
+        "id": "fc3ea52b-67ac-4876-949d-5464c436f3db",
+        "case_id": "fc3ea52b-67ac-4876-949d-5464c436f3db",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7374"
+      },
+      {
+        "id": "43b99616-d7b4-404e-8912-4275f8d6dc55",
+        "case_id": "43b99616-d7b4-404e-8912-4275f8d6dc55",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-HD-8224"
+      },
+      {
+        "id": "fe844945-3ea9-449e-993c-df392fabcfd0",
+        "case_id": "fe844945-3ea9-449e-993c-df392fabcfd0",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4735"
+      },
+      {
+        "id": "444e5bfc-d4e5-4b0d-b96d-88ecea8873e9",
+        "case_id": "444e5bfc-d4e5-4b0d-b96d-88ecea8873e9",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4742"
+      },
+      {
+        "id": "44d99f11-ef5b-45d7-b7df-b5c5893d878f",
+        "case_id": "44d99f11-ef5b-45d7-b7df-b5c5893d878f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7429"
+      },
+      {
+        "id": "4587ae9f-71fb-4582-82ff-fb407fee6445",
+        "case_id": "4587ae9f-71fb-4582-82ff-fb407fee6445",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A5QF"
+      },
+      {
+        "id": "45c3cd39-1c5d-4e26-8afc-5bed3c230088",
+        "case_id": "45c3cd39-1c5d-4e26-8afc-5bed3c230088",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7372"
+      },
+      {
+        "id": "46625ebd-5bf3-4fe7-bf3f-19cc5a210555",
+        "case_id": "46625ebd-5bf3-4fe7-bf3f-19cc5a210555",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-P3-A6T5"
+      },
+      {
+        "id": "468649e7-1525-4b8a-8ab5-ddb27db5f022",
+        "case_id": "468649e7-1525-4b8a-8ab5-ddb27db5f022",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-6482"
+      },
+      {
+        "id": "46e51eb2-0c5e-457b-af1a-8bac1b8a8bea",
+        "case_id": "46e51eb2-0c5e-457b-af1a-8bac1b8a8bea",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-A624"
+      },
+      {
+        "id": "49b94421-fe82-4f24-8ef2-820674142418",
+        "case_id": "49b94421-fe82-4f24-8ef2-820674142418",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6996"
+      },
+      {
+        "id": "49eb77f3-f7d8-4e98-9f91-547543028877",
+        "case_id": "49eb77f3-f7d8-4e98-9f91-547543028877",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-QK-A652"
+      },
+      {
+        "id": "4b4247e2-4446-44f5-8573-4cea8bf69f8e",
+        "case_id": "4b4247e2-4446-44f5-8573-4cea8bf69f8e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7242"
+      },
+      {
+        "id": "4b50aea4-4ad1-4bf6-9cf1-984c28a99c84",
+        "case_id": "4b50aea4-4ad1-4bf6-9cf1-984c28a99c84",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-TN-A7HL"
+      },
+      {
+        "id": "4cacff9d-cc50-43a5-a227-16923ada7467",
+        "case_id": "4cacff9d-cc50-43a5-a227-16923ada7467",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-A6JZ"
+      },
+      {
+        "id": "4eacd173-025a-442b-8bce-890ccfdca586",
+        "case_id": "4eacd173-025a-442b-8bce-890ccfdca586",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-5444"
+      },
+      {
+        "id": "4f5bc340-bdb5-418a-b3c4-96ac85e08b34",
+        "case_id": "4f5bc340-bdb5-418a-b3c4-96ac85e08b34",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6934"
+      },
+      {
+        "id": "50e25a4b-2eb2-4770-9a2d-8922a1e0ab56",
+        "case_id": "50e25a4b-2eb2-4770-9a2d-8922a1e0ab56",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-4731"
+      },
+      {
+        "id": "50ee088a-5f74-466a-b9e7-7247f0a8d3e8",
+        "case_id": "50ee088a-5f74-466a-b9e7-7247f0a8d3e8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-MT-A67F"
+      },
+      {
+        "id": "513b1a26-8f1b-49a0-8957-de10930e6c98",
+        "case_id": "513b1a26-8f1b-49a0-8957-de10930e6c98",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-F7-8489"
+      },
+      {
+        "id": "53b254b7-021f-43df-af9b-3fc01b87479e",
+        "case_id": "53b254b7-021f-43df-af9b-3fc01b87479e",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CR-7380"
+      },
+      {
+        "id": "53d9a130-4a3a-4491-85cd-9a44415a1632",
+        "case_id": "53d9a130-4a3a-4491-85cd-9a44415a1632",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-DQ-5625"
+      },
+      {
+        "id": "545c9f09-df14-4302-b131-519d141438d1",
+        "case_id": "545c9f09-df14-4302-b131-519d141438d1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-UF-A7JC"
+      },
+      {
+        "id": "54b295d4-6315-4416-bde7-a221859f965c",
+        "case_id": "54b295d4-6315-4416-bde7-a221859f965c",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BA-A4IG"
+      },
+      {
+        "id": "54dab158-eb39-4334-8b5a-bf290e6b8bb1",
+        "case_id": "54dab158-eb39-4334-8b5a-bf290e6b8bb1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5370"
+      },
+      {
+        "id": "55838e1f-07e8-49ca-89d6-46216babc6f7",
+        "case_id": "55838e1f-07e8-49ca-89d6-46216babc6f7",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-6018"
+      },
+      {
+        "id": "55a9e8ae-95a3-485c-8df0-78740fcd58d8",
+        "case_id": "55a9e8ae-95a3-485c-8df0-78740fcd58d8",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-D6-A4Z9"
+      },
+      {
+        "id": "5646f226-e2ce-45ef-8aa2-4841ec6b56b0",
+        "case_id": "5646f226-e2ce-45ef-8aa2-4841ec6b56b0",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-BB-8596"
+      },
+      {
+        "id": "5793879b-f663-4a10-9bd9-1acd2e189650",
+        "case_id": "5793879b-f663-4a10-9bd9-1acd2e189650",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-5360"
+      },
+      {
+        "id": "59398d50-45cf-4812-a24e-0c00c0199971",
+        "case_id": "59398d50-45cf-4812-a24e-0c00c0199971",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-6441"
+      },
+      {
+        "id": "59a7d695-cb0c-47b8-ba9d-ca52ca2cfa7d",
+        "case_id": "59a7d695-cb0c-47b8-ba9d-ca52ca2cfa7d",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-H7-A76A"
+      },
+      {
+        "id": "5a976335-2326-46f0-abf1-29b744da1f43",
+        "case_id": "5a976335-2326-46f0-abf1-29b744da1f43",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7102"
+      },
+      {
+        "id": "5ac57aee-4be1-4a29-a53f-343f5a3d2e86",
+        "case_id": "5ac57aee-4be1-4a29-a53f-343f5a3d2e86",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CN-A6V6"
+      },
+      {
+        "id": "5d227ea8-bd74-4e8f-9bee-9d981f03d66f",
+        "case_id": "5d227ea8-bd74-4e8f-9bee-9d981f03d66f",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-6227"
+      },
+      {
+        "id": "5d850e54-24bb-4ae6-9e4b-09ecc7e7cfee",
+        "case_id": "5d850e54-24bb-4ae6-9e4b-09ecc7e7cfee",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CQ-A4C6"
+      },
+      {
+        "id": "5e25ab76-a8ab-4779-aa03-8de658f18da1",
+        "case_id": "5e25ab76-a8ab-4779-aa03-8de658f18da1",
+        "project": {
+          "project_id": "TCGA-HNSC"
+        },
+        "submitter_id": "TCGA-CV-7247"
+      }
+    ],
+    "pagination": {
+      "count": 528,
+      "total": 528,
+      "size": 5000,
+      "from": 0,
+      "sort": "",
+      "page": 1,
+      "pages": 1
+    }
+  },
+  "warnings": {
+    "fields": "unrecognized values: [follow_ups, demographic, exposures, samples, diagnoses]"
+  }
+}

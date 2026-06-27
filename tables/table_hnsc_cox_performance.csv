@@ -1,0 +1,6 @@
+model,penalizer,n_train,n_validation,events_validation,c_index
+cox_penalized_0.01,0.01,125,42,29,0.5878164556962026
+cox_penalized_0.05,0.05,125,42,29,0.5878164556962026
+cox_penalized_0.1,0.1,125,42,29,0.5830696202531646
+cox_penalized_0.5,0.5,125,42,29,0.571993670886076
+cox_penalized_1.0,1.0,125,42,29,0.5767405063291139

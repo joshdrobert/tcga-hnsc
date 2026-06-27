@@ -1,0 +1,50 @@
+variable,level,n
+sex,MALE,217
+sex,FEMALE,77
+vital_status,Alive,179
+vital_status,Dead,85
+vital_status,Alive|Dead,30
+pathologic_stage,Stage IVA,139
+pathologic_stage,Stage III,49
+pathologic_stage,Missing,42
+pathologic_stage,Stage II,42
+pathologic_stage,Stage I,15
+pathologic_stage,Stage IVB,7
+pathologic_t,T2,83
+pathologic_t,T4a,78
+pathologic_t,T3,61
+pathologic_t,T1,27
+pathologic_t,TX,23
+pathologic_t,Missing,11
+pathologic_t,T4,9
+pathologic_t,T4b,2
+pathologic_n,N0,103
+pathologic_n,N2b,62
+pathologic_n,NX,45
+pathologic_n,N1,34
+pathologic_n,N2c,22
+pathologic_n,Missing,12
+pathologic_n,N2,8
+pathologic_n,N3,5
+pathologic_n,N2a,3
+pathologic_m,Missing,159
+pathologic_m,M0,98
+pathologic_m,MX,37
+histologic_grade,G2,171
+histologic_grade,G3,70
+histologic_grade,G1,37
+histologic_grade,GX,10
+histologic_grade,G4,4
+histologic_grade,Missing,2
+primary_site,Oral Tongue,82
+primary_site,Larynx,58
+primary_site,Oral Cavity,45
+primary_site,Tonsil,28
+primary_site,Floor of mouth,22
+primary_site,Buccal Mucosa,18
+primary_site,Base of tongue,17
+primary_site,Alveolar Ridge,8
+primary_site,Hard Palate,7
+primary_site,Hypopharynx,4
+primary_site,Oropharynx,3
+primary_site,Lip,2

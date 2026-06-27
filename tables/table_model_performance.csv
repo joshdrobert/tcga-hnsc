@@ -1,0 +1,2 @@
+model,n_train,n_validation,events_validation,auroc,auprc,brier
+logistic_interpretable,220,74,29,0.6268199233716475,0.5475275362028911,0.23772727039162983

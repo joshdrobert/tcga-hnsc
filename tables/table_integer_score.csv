@@ -1,0 +1,56 @@
+feature,coefficient,points
+cat__pathologic_stage_Stage IVB,1.0283192517796012,4
+cat__pathologic_n_N1,-0.9992744910171552,-4
+cat__pathologic_t_TX,-0.9681072452909744,-3
+cat__pathologic_n_NX,0.9167076804599805,3
+cat__pathologic_t_T4,0.7571437803127397,3
+cat__pathologic_n_N0,-0.7311947632668719,-3
+cat__histologic_grade_GX,0.6928461814339143,3
+cat__primary_site_Hard Palate,-0.6595741621720081,-2
+cat__primary_site_Base of tongue,-0.5848515664335255,-2
+cat__pathologic_t_T4b,0.5654580916067634,2
+num__expr_CD274,0.5604123233110048,2
+cat__pathologic_m_MX,-0.5524143387842952,-2
+cat__pathologic_n_N2,0.5446543617200801,2
+cat__pathologic_m_M0,0.5356828921114386,2
+cat__pathologic_stage_Stage I,-0.5210719695014071,-2
+cat__primary_site_Oropharynx,0.5060970441437928,2
+cat__primary_site_Oral Cavity,0.48786066540452894,2
+cat__pathologic_stage_Stage II,-0.4669881138358982,-2
+cat__pathologic_n_N3,0.46286116017283824,2
+num__expr_KRT14,0.46045962103804045,2
+num__age_at_diagnosis_years,0.4341858824328796,2
+num__expr_PDCD1LG2,-0.42472975521981776,-2
+cat__pathologic_t_T3,0.35355856671029284,1
+cat__histologic_grade_G4,-0.31653405624536346,-1
+cat__histologic_grade_G1,-0.3133781101183081,-1
+cat__primary_site_Oral Tongue,0.28845172928571866,1
+cat__pathologic_t_T4a,-0.2842165878176629,-1
+num__expr_KRT5,-0.2770261553106077,-1
+cat__pathologic_t_T1,-0.27518248295674774,-1
+num__expr_NOTCH1,-0.2715822157571523,-1
+num__expr_TP53,0.2620127809908181,1
+num__expr_CDKN2A,-0.2536747329223171,-1
+cat__pathologic_n_N2c,-0.24624648273874256,-1
+cat__pathologic_n_N2b,0.24337334235211694,1
+cat__primary_site_Alveolar Ridge,0.23560205092689934,1
+num__expr_EPCAM,0.2217559841295338,1
+cat__pathologic_n_N2a,-0.20761225435510194,-1
+cat__primary_site_Larynx,-0.20746062605937876,-1
+cat__pathologic_t_T2,-0.16538556923726697,-1
+cat__primary_site_Tonsil,-0.16441844231949773,-1
+cat__primary_site_Floor of mouth,0.1592754070214092,1
+num__smoking_history,0.11612376166678208,0
+cat__primary_site_Hypopharynx,-0.09647110483359582,0
+cat__sex_FEMALE,-0.0878350769605542,0
+num__expr_PIK3CA,0.08377433934439703,0
+cat__histologic_grade_G3,-0.0816294900504156,0
+cat__sex_MALE,0.07110363028769892,0
+num__expr_EGFR,0.055568391216099924,0
+cat__pathologic_stage_Stage III,-0.031392188561820474,0
+num__expr_FAT1,-0.029813878152215215,0
+cat__pathologic_stage_Stage IVA,-0.02559842655333302,0
+num__expr_SOX2,-0.0225102397099693,0
+cat__primary_site_Buccal Mucosa,0.018757558362800207,0
+num__expr_CCND1,-0.014725267648410882,0
+cat__histologic_grade_G2,0.00196402830731612,0
